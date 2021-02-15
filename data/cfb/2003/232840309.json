@@ -1,0 +1,678 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Warhawks",
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                    "location": "Louisiana Monroe",
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "slug": "louisiana-monroe-warhawks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Ragin' Cajuns",
+                    "uid": "s:20~l:23~t:309",
+                    "color": "ce2842",
+                    "displayName": "Louisiana Ragin' Cajuns",
+                    "name": "Ragin' Cajuns",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+                    "location": "Louisiana",
+                    "id": "309",
+                    "abbreviation": "ULL",
+                    "slug": "louisiana-ragin-cajuns"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Warhawks",
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                    "location": "Louisiana Monroe",
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "slug": "louisiana-monroe-warhawks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Ragin' Cajuns",
+                    "uid": "s:20~l:23~t:309",
+                    "color": "ce2842",
+                    "displayName": "Louisiana Ragin' Cajuns",
+                    "name": "Ragin' Cajuns",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+                    "location": "Louisiana",
+                    "id": "309",
+                    "abbreviation": "ULL",
+                    "slug": "louisiana-ragin-cajuns"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:232840309",
+        "week": 8,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2003-10-11T21:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": true,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "groups": {
+                    "midsizeName": "Sun Belt",
+                    "name": "Sun Belt Conference",
+                    "id": "37",
+                    "abbreviation": "belt",
+                    "shortName": "Sun Belt"
+                },
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:232840309~c:232840309",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:309",
+                        "homeAway": "home",
+                        "score": "42",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-7",
+                                "displayValue": "0-7",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-3",
+                                "displayValue": "0-3",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-3",
+                                "displayValue": "0-3",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "309",
+                        "team": {
+                            "uid": "s:20~l:23~t:309",
+                            "color": "ce2842",
+                            "displayName": "Louisiana Ragin' Cajuns",
+                            "name": "Ragin' Cajuns",
+                            "nickname": "Louisiana",
+                            "location": "Louisiana",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/309/louisiana-ragin-cajuns",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "309",
+                            "abbreviation": "ULL",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "14"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:2433",
+                        "homeAway": "away",
+                        "score": "45",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-6",
+                                "displayValue": "1-6",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-4",
+                                "displayValue": "1-4",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "1-2",
+                                "displayValue": "1-2",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2433",
+                        "team": {
+                            "uid": "s:20~l:23~t:2433",
+                            "alternateColor": "b18445",
+                            "color": "231F20",
+                            "displayName": "Louisiana Monroe Warhawks",
+                            "name": "Warhawks",
+                            "nickname": "UL Monroe",
+                            "location": "Louisiana Monroe",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2433/louisiana-monroe-warhawks",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2433",
+                            "abbreviation": "ULM",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "21"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "10"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "232840309",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/232840309",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/college-football/boxscore?gameId=232840309",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/matchup?gameId=232840309",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "232840309",
+        "gameNote": ""
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": []
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2003-10-11T21:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": true,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "groups": {
+            "midsizeName": "Sun Belt",
+            "name": "Sun Belt Conference",
+            "id": "37",
+            "abbreviation": "belt",
+            "shortName": "Sun Belt"
+        },
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:232840309~c:232840309",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:309",
+                "homeAway": "home",
+                "score": "42",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-7",
+                        "displayValue": "0-7",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-3",
+                        "displayValue": "0-3",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-3",
+                        "displayValue": "0-3",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "309",
+                "team": {
+                    "uid": "s:20~l:23~t:309",
+                    "color": "ce2842",
+                    "displayName": "Louisiana Ragin' Cajuns",
+                    "name": "Ragin' Cajuns",
+                    "nickname": "Louisiana",
+                    "location": "Louisiana",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/309/louisiana-ragin-cajuns",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "309",
+                    "abbreviation": "ULL",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "14"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:2433",
+                "homeAway": "away",
+                "score": "45",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-6",
+                        "displayValue": "1-6",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-4",
+                        "displayValue": "1-4",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "1-2",
+                        "displayValue": "1-2",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2433",
+                "team": {
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "nickname": "UL Monroe",
+                    "location": "Louisiana Monroe",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2433/louisiana-monroe-warhawks",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "21"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "10"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "232840309",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2003,
+        "type": 2
+    }
+}

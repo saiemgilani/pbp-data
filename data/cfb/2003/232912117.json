@@ -1,0 +1,701 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Rockets",
+                    "uid": "s:20~l:23~t:2649",
+                    "alternateColor": "ffd51d",
+                    "color": "ffffff",
+                    "displayName": "Toledo Rockets",
+                    "name": "Rockets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+                    "location": "Toledo",
+                    "id": "2649",
+                    "abbreviation": "TOL",
+                    "slug": "toledo-rockets"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Chippewas",
+                    "uid": "s:20~l:23~t:2117",
+                    "alternateColor": "ffffff",
+                    "color": "6a0032",
+                    "displayName": "Central Michigan Chippewas",
+                    "name": "Chippewas",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+                    "location": "Central Michigan",
+                    "id": "2117",
+                    "abbreviation": "CMU",
+                    "slug": "central-michigan-chippewas"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Rockets",
+                    "uid": "s:20~l:23~t:2649",
+                    "alternateColor": "ffd51d",
+                    "color": "ffffff",
+                    "displayName": "Toledo Rockets",
+                    "name": "Rockets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+                    "location": "Toledo",
+                    "id": "2649",
+                    "abbreviation": "TOL",
+                    "slug": "toledo-rockets"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Chippewas",
+                    "uid": "s:20~l:23~t:2117",
+                    "alternateColor": "ffffff",
+                    "color": "6a0032",
+                    "displayName": "Central Michigan Chippewas",
+                    "name": "Chippewas",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+                    "location": "Central Michigan",
+                    "id": "2117",
+                    "abbreviation": "CMU",
+                    "slug": "central-michigan-chippewas"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:232912117",
+        "week": 9,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2003-10-18T17:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": true,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "groups": {
+                    "midsizeName": "Mid-American",
+                    "name": "Mid-American Conference",
+                    "id": "15",
+                    "abbreviation": "midam",
+                    "shortName": "MAC"
+                },
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:232912117~c:232912117",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:2117",
+                        "homeAway": "home",
+                        "score": "13",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "2-5",
+                                "displayValue": "2-5",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "2-2",
+                                "displayValue": "2-2",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-4",
+                                "displayValue": "0-4",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2117",
+                        "team": {
+                            "uid": "s:20~l:23~t:2117",
+                            "alternateColor": "ffffff",
+                            "color": "6a0032",
+                            "displayName": "Central Michigan Chippewas",
+                            "name": "Chippewas",
+                            "nickname": "Cent Michigan",
+                            "location": "Central Michigan",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2117/central-michigan-chippewas",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2117",
+                            "abbreviation": "CMU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "6"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:2649",
+                        "homeAway": "away",
+                        "score": "31",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "5-2",
+                                "displayValue": "5-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "2-2",
+                                "displayValue": "2-2",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "3-0",
+                                "displayValue": "3-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2649",
+                        "team": {
+                            "uid": "s:20~l:23~t:2649",
+                            "alternateColor": "ffd51d",
+                            "color": "ffffff",
+                            "displayName": "Toledo Rockets",
+                            "name": "Rockets",
+                            "nickname": "Toledo",
+                            "location": "Toledo",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2649/toledo-rockets",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2649",
+                            "abbreviation": "TOL",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "21"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "232912117",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/232912117",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/college-football/boxscore?gameId=232912117",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/matchup?gameId=232912117",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "232912117",
+        "gameNote": ""
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 Mid-American Conference Standings",
+                "href": "https://www.espn.com/college-football/standings/_/group/15/view/fbs-i-a",
+                "divisions": [
+                    {
+                        "header": "Mid-American - East",
+                        "standings": {
+                            "entries": []
+                        }
+                    },
+                    {
+                        "header": "Mid-American - West",
+                        "standings": {
+                            "entries": []
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2003-10-18T17:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": true,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "groups": {
+            "midsizeName": "Mid-American",
+            "name": "Mid-American Conference",
+            "id": "15",
+            "abbreviation": "midam",
+            "shortName": "MAC"
+        },
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:232912117~c:232912117",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:2117",
+                "homeAway": "home",
+                "score": "13",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "2-5",
+                        "displayValue": "2-5",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "2-2",
+                        "displayValue": "2-2",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-4",
+                        "displayValue": "0-4",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2117",
+                "team": {
+                    "uid": "s:20~l:23~t:2117",
+                    "alternateColor": "ffffff",
+                    "color": "6a0032",
+                    "displayName": "Central Michigan Chippewas",
+                    "name": "Chippewas",
+                    "nickname": "Cent Michigan",
+                    "location": "Central Michigan",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2117/central-michigan-chippewas",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2117",
+                    "abbreviation": "CMU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "6"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:2649",
+                "homeAway": "away",
+                "score": "31",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "5-2",
+                        "displayValue": "5-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "2-2",
+                        "displayValue": "2-2",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "3-0",
+                        "displayValue": "3-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2649",
+                "team": {
+                    "uid": "s:20~l:23~t:2649",
+                    "alternateColor": "ffd51d",
+                    "color": "ffffff",
+                    "displayName": "Toledo Rockets",
+                    "name": "Rockets",
+                    "nickname": "Toledo",
+                    "location": "Toledo",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2649/toledo-rockets",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2649",
+                    "abbreviation": "TOL",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "21"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "232912117",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2003,
+        "type": 2
+    }
+}

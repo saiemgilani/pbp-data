@@ -1,0 +1,712 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Tigers",
+                    "uid": "s:20~l:23~t:2755",
+                    "alternateColor": "ffd10a",
+                    "color": "ee8601",
+                    "displayName": "Grambling State Tigers",
+                    "name": "Tigers",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+                    "location": "Grambling State",
+                    "id": "2755",
+                    "abbreviation": "GRAM",
+                    "slug": "grambling-state-tigers"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Spartans",
+                    "uid": "s:20~l:23~t:23",
+                    "alternateColor": "fdba31",
+                    "color": "005893",
+                    "displayName": "San Jose State Spartans",
+                    "name": "Spartans",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+                    "location": "San Jose State",
+                    "id": "23",
+                    "abbreviation": "SJSU",
+                    "slug": "san-jose-state-spartans"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Tigers",
+                    "uid": "s:20~l:23~t:2755",
+                    "alternateColor": "ffd10a",
+                    "color": "ee8601",
+                    "displayName": "Grambling State Tigers",
+                    "name": "Tigers",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+                    "location": "Grambling State",
+                    "id": "2755",
+                    "abbreviation": "GRAM",
+                    "slug": "grambling-state-tigers"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Spartans",
+                    "uid": "s:20~l:23~t:23",
+                    "alternateColor": "fdba31",
+                    "color": "005893",
+                    "displayName": "San Jose State Spartans",
+                    "name": "Spartans",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+                    "location": "San Jose State",
+                    "id": "23",
+                    "abbreviation": "SJSU",
+                    "slug": "san-jose-state-spartans"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:232350023",
+        "week": 1,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2003-08-23T22:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "ESPN2"
+                        },
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:232350023~c:232350023",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:23",
+                        "homeAway": "home",
+                        "score": "29",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "23",
+                        "team": {
+                            "uid": "s:20~l:23~t:23",
+                            "alternateColor": "fdba31",
+                            "color": "005893",
+                            "displayName": "San Jose State Spartans",
+                            "name": "Spartans",
+                            "nickname": "San Jose State",
+                            "location": "San Jose State",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/23/san-jose-state-spartans",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "23",
+                            "abbreviation": "SJSU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/23.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "16"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:2755",
+                        "homeAway": "away",
+                        "score": "0",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2755",
+                        "team": {
+                            "uid": "s:20~l:23~t:2755",
+                            "alternateColor": "ffd10a",
+                            "color": "ee8601",
+                            "displayName": "Grambling State Tigers",
+                            "name": "Tigers",
+                            "nickname": "Grambling St",
+                            "location": "Grambling State",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2755/grambling-state-tigers",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2755",
+                            "abbreviation": "GRAM",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2755.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": true,
+                "boxscoreAvailable": true,
+                "id": "232350023",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/232350023",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/recap?gameId=232350023",
+                "text": "Recap",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/college-football/boxscore?gameId=232350023",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/matchup?gameId=232350023",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "232350023",
+        "gameNote": ""
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": []
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2003-08-23T22:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "ESPN2"
+                },
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:232350023~c:232350023",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:23",
+                "homeAway": "home",
+                "score": "29",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "23",
+                "team": {
+                    "uid": "s:20~l:23~t:23",
+                    "alternateColor": "fdba31",
+                    "color": "005893",
+                    "displayName": "San Jose State Spartans",
+                    "name": "Spartans",
+                    "nickname": "San Jose State",
+                    "location": "San Jose State",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/23/san-jose-state-spartans",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "23",
+                    "abbreviation": "SJSU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/23.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "16"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:2755",
+                "homeAway": "away",
+                "score": "0",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2755",
+                "team": {
+                    "uid": "s:20~l:23~t:2755",
+                    "alternateColor": "ffd10a",
+                    "color": "ee8601",
+                    "displayName": "Grambling State Tigers",
+                    "name": "Tigers",
+                    "nickname": "Grambling St",
+                    "location": "Grambling State",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2755/grambling-state-tigers",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2755",
+                    "abbreviation": "GRAM",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2755.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": true,
+        "boxscoreAvailable": true,
+        "id": "232350023",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2003,
+        "type": 2
+    }
+}

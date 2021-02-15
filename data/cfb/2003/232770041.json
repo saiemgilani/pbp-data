@@ -1,0 +1,953 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Mountain Hawks",
+                    "uid": "s:20~l:23~t:2329",
+                    "alternateColor": "b69e70",
+                    "color": "6c2b2a",
+                    "displayName": "Lehigh Mountain Hawks",
+                    "name": "Mountain Hawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+                    "location": "Lehigh",
+                    "id": "2329",
+                    "abbreviation": "LEH",
+                    "slug": "lehigh-mountain-hawks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Huskies",
+                    "uid": "s:20~l:23~t:41",
+                    "alternateColor": "f1f2f3",
+                    "color": "001d40",
+                    "displayName": "Connecticut Huskies",
+                    "name": "Huskies",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+                    "location": "Connecticut",
+                    "id": "41",
+                    "abbreviation": "CONN",
+                    "slug": "connecticut-huskies"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Mountain Hawks",
+                    "uid": "s:20~l:23~t:2329",
+                    "alternateColor": "b69e70",
+                    "color": "6c2b2a",
+                    "displayName": "Lehigh Mountain Hawks",
+                    "name": "Mountain Hawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+                    "location": "Lehigh",
+                    "id": "2329",
+                    "abbreviation": "LEH",
+                    "slug": "lehigh-mountain-hawks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Huskies",
+                    "uid": "s:20~l:23~t:41",
+                    "alternateColor": "f1f2f3",
+                    "color": "001d40",
+                    "displayName": "Connecticut Huskies",
+                    "name": "Huskies",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+                    "location": "Connecticut",
+                    "id": "41",
+                    "abbreviation": "CONN",
+                    "slug": "connecticut-huskies"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:232770041",
+        "week": 7,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2003-10-04T16:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:232770041~c:232770041",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:41",
+                        "homeAway": "home",
+                        "score": "35",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "4-2",
+                                "displayValue": "4-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "2-1",
+                                "displayValue": "2-1",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "41",
+                        "team": {
+                            "uid": "s:20~l:23~t:41",
+                            "alternateColor": "f1f2f3",
+                            "color": "001d40",
+                            "displayName": "Connecticut Huskies",
+                            "name": "Huskies",
+                            "nickname": "UConn",
+                            "location": "Connecticut",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/41/connecticut-huskies",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "41",
+                            "abbreviation": "CONN",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/41.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "14"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:2329",
+                        "homeAway": "away",
+                        "score": "17",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "3-2",
+                                "displayValue": "3-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-1",
+                                "displayValue": "1-1",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "2-0",
+                                "displayValue": "2-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2329",
+                        "team": {
+                            "uid": "s:20~l:23~t:2329",
+                            "alternateColor": "b69e70",
+                            "color": "6c2b2a",
+                            "displayName": "Lehigh Mountain Hawks",
+                            "name": "Mountain Hawks",
+                            "nickname": "Lehigh",
+                            "location": "Lehigh",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2329/lehigh-mountain-hawks",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2329",
+                            "abbreviation": "LEH",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2329.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "232770041",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/232770041",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/recap?gameId=232770041",
+                "text": "Recap",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/college-football/boxscore?gameId=232770041",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/matchup?gameId=232770041",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "232770041",
+        "gameNote": ""
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 Patriot League Standings",
+                "href": "https://www.espn.com/college-football/standings/_/group/27/view/fcs-i-aa",
+                "divisions": [
+                    {
+                        "header": "Patriot League - North",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:2142",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2142/colgate-raiders",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Colgate",
+                                    "id": "2142"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2230",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2230/fordham-rams",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Fordham",
+                                    "id": "2230"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:107",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/107/holy-cross-crusaders",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/107.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Holy Cross",
+                                    "id": "107"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "header": "Patriot League - South",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:2083",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2083/bucknell-bison",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Bucknell",
+                                    "id": "2083"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:322",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/322/lafayette-leopards",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Lafayette",
+                                    "id": "322"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2329",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-0",
+                                            "displayValue": "0-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2329/lehigh-mountain-hawks",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Lehigh",
+                                    "id": "2329"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2003-10-04T16:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:232770041~c:232770041",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:41",
+                "homeAway": "home",
+                "score": "35",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "4-2",
+                        "displayValue": "4-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "2-1",
+                        "displayValue": "2-1",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "41",
+                "team": {
+                    "uid": "s:20~l:23~t:41",
+                    "alternateColor": "f1f2f3",
+                    "color": "001d40",
+                    "displayName": "Connecticut Huskies",
+                    "name": "Huskies",
+                    "nickname": "UConn",
+                    "location": "Connecticut",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/41/connecticut-huskies",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "41",
+                    "abbreviation": "CONN",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/41.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "14"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:2329",
+                "homeAway": "away",
+                "score": "17",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "3-2",
+                        "displayValue": "3-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-1",
+                        "displayValue": "1-1",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "2-0",
+                        "displayValue": "2-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2329",
+                "team": {
+                    "uid": "s:20~l:23~t:2329",
+                    "alternateColor": "b69e70",
+                    "color": "6c2b2a",
+                    "displayName": "Lehigh Mountain Hawks",
+                    "name": "Mountain Hawks",
+                    "nickname": "Lehigh",
+                    "location": "Lehigh",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2329/lehigh-mountain-hawks",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2329",
+                    "abbreviation": "LEH",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2329.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "232770041",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2003,
+        "type": 2
+    }
+}

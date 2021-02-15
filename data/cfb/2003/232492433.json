@@ -1,0 +1,668 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Lumberjacks",
+                    "uid": "s:20~l:23~t:2617",
+                    "alternateColor": "bec0c2",
+                    "color": "393996",
+                    "displayName": "Stephen F Austin Lumberjacks",
+                    "name": "Lumberjacks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+                    "location": "Stephen F Austin",
+                    "id": "2617",
+                    "abbreviation": "SFA",
+                    "slug": "stephen-f-austin-lumberjacks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Warhawks",
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                    "location": "Louisiana Monroe",
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "slug": "louisiana-monroe-warhawks"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Lumberjacks",
+                    "uid": "s:20~l:23~t:2617",
+                    "alternateColor": "bec0c2",
+                    "color": "393996",
+                    "displayName": "Stephen F Austin Lumberjacks",
+                    "name": "Lumberjacks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+                    "location": "Stephen F Austin",
+                    "id": "2617",
+                    "abbreviation": "SFA",
+                    "slug": "stephen-f-austin-lumberjacks"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Warhawks",
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                    "location": "Louisiana Monroe",
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "slug": "louisiana-monroe-warhawks"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:232492433",
+        "week": 3,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2003-09-07T00:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:232492433~c:232492433",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:2433",
+                        "homeAway": "home",
+                        "score": "21",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-2",
+                                "displayValue": "0-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2433",
+                        "team": {
+                            "uid": "s:20~l:23~t:2433",
+                            "alternateColor": "b18445",
+                            "color": "231F20",
+                            "displayName": "Louisiana Monroe Warhawks",
+                            "name": "Warhawks",
+                            "nickname": "UL Monroe",
+                            "location": "Louisiana Monroe",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2433/louisiana-monroe-warhawks",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2433",
+                            "abbreviation": "ULM",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "7"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:2617",
+                        "homeAway": "away",
+                        "score": "23",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2617",
+                        "team": {
+                            "uid": "s:20~l:23~t:2617",
+                            "alternateColor": "bec0c2",
+                            "color": "393996",
+                            "displayName": "Stephen F Austin Lumberjacks",
+                            "name": "Lumberjacks",
+                            "nickname": "SF Austin",
+                            "location": "Stephen F Austin",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/2617/stephen-f-austin-lumberjacks",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2617",
+                            "abbreviation": "SFA",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "9"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "7"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "232492433",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/232492433",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/college-football/boxscore?gameId=232492433",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/matchup?gameId=232492433",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "232492433",
+        "gameNote": ""
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": []
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2003-09-07T00:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:232492433~c:232492433",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:2433",
+                "homeAway": "home",
+                "score": "21",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-2",
+                        "displayValue": "0-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2433",
+                "team": {
+                    "uid": "s:20~l:23~t:2433",
+                    "alternateColor": "b18445",
+                    "color": "231F20",
+                    "displayName": "Louisiana Monroe Warhawks",
+                    "name": "Warhawks",
+                    "nickname": "UL Monroe",
+                    "location": "Louisiana Monroe",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2433/louisiana-monroe-warhawks",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2433",
+                    "abbreviation": "ULM",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "7"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:2617",
+                "homeAway": "away",
+                "score": "23",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2617",
+                "team": {
+                    "uid": "s:20~l:23~t:2617",
+                    "alternateColor": "bec0c2",
+                    "color": "393996",
+                    "displayName": "Stephen F Austin Lumberjacks",
+                    "name": "Lumberjacks",
+                    "nickname": "SF Austin",
+                    "location": "Stephen F Austin",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/2617/stephen-f-austin-lumberjacks",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2617",
+                    "abbreviation": "SFA",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "9"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "7"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "232492433",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2003,
+        "type": 2
+    }
+}
