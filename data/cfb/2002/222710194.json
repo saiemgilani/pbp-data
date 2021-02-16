@@ -1,0 +1,1937 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Hoosiers",
+                    "uid": "s:20~l:23~t:84",
+                    "alternateColor": "eeedeb",
+                    "color": "7D110C",
+                    "displayName": "Indiana Hoosiers",
+                    "name": "Hoosiers",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                    "location": "Indiana",
+                    "id": "84",
+                    "abbreviation": "IU",
+                    "slug": "indiana-hoosiers"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Buckeyes",
+                    "uid": "s:20~l:23~t:194",
+                    "alternateColor": "666666",
+                    "color": "DE3121",
+                    "displayName": "Ohio State Buckeyes",
+                    "name": "Buckeyes",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                    "location": "Ohio State",
+                    "id": "194",
+                    "abbreviation": "OSU",
+                    "slug": "ohio-state-buckeyes"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Hoosiers",
+                    "uid": "s:20~l:23~t:84",
+                    "alternateColor": "eeedeb",
+                    "color": "7D110C",
+                    "displayName": "Indiana Hoosiers",
+                    "name": "Hoosiers",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                    "location": "Indiana",
+                    "id": "84",
+                    "abbreviation": "IU",
+                    "slug": "indiana-hoosiers"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Buckeyes",
+                    "uid": "s:20~l:23~t:194",
+                    "alternateColor": "666666",
+                    "color": "DE3121",
+                    "displayName": "Ohio State Buckeyes",
+                    "name": "Buckeyes",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                    "location": "Ohio State",
+                    "id": "194",
+                    "abbreviation": "OSU",
+                    "slug": "ohio-state-buckeyes"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:222710194",
+        "week": 6,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2002-09-28T16:10Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": true,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:222710194~c:222710194",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:194",
+                        "homeAway": "home",
+                        "score": "45",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "5-0",
+                                "displayValue": "5-0",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "4-0",
+                                "displayValue": "4-0",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "rank": 6,
+                        "id": "194",
+                        "team": {
+                            "uid": "s:20~l:23~t:194",
+                            "alternateColor": "666666",
+                            "color": "DE3121",
+                            "displayName": "Ohio State Buckeyes",
+                            "name": "Buckeyes",
+                            "nickname": "Ohio State",
+                            "location": "Ohio State",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "194",
+                            "abbreviation": "OSU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "17"
+                            },
+                            {
+                                "displayValue": "7"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:84",
+                        "homeAway": "away",
+                        "score": "17",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "2-3",
+                                "displayValue": "2-3",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-3",
+                                "displayValue": "0-3",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "84",
+                        "team": {
+                            "uid": "s:20~l:23~t:84",
+                            "alternateColor": "eeedeb",
+                            "color": "7D110C",
+                            "displayName": "Indiana Hoosiers",
+                            "name": "Hoosiers",
+                            "nickname": "Indiana",
+                            "location": "Indiana",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "84",
+                            "abbreviation": "IU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "10"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "7"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": false,
+                "id": "222710194",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "none",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2002,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/222710194",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/recap?gameId=222710194",
+                "text": "Recap",
+                "isPremium": false
+            }
+        ],
+        "id": "222710194"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 Big Ten Conference Standings",
+                "href": "https://www.espn.com/college-football/standings/_/group/5/view/fbs-i-a",
+                "divisions": [
+                    {
+                        "header": "Big Ten - East",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:194",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "7-1",
+                                            "displayValue": "7-1",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "5-0",
+                                            "displayValue": "5-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Ohio State",
+                                    "id": "194"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:84",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-1",
+                                            "displayValue": "6-1",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Indiana",
+                                    "id": "84"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:213",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "4-5",
+                                            "displayValue": "4-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "4-5",
+                                            "displayValue": "4-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Penn State",
+                                    "id": "213"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:120",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-3",
+                                            "displayValue": "2-3",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-3",
+                                            "displayValue": "2-3",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/120/maryland-terrapins",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Maryland",
+                                    "id": "120"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:164",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-6",
+                                            "displayValue": "3-6",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-6",
+                                            "displayValue": "3-6",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/164/rutgers-scarlet-knights",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Rutgers",
+                                    "id": "164"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:130",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Michigan",
+                                    "id": "130"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:127",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-5",
+                                            "displayValue": "2-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-5",
+                                            "displayValue": "2-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/127/michigan-state-spartans",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Michigan State",
+                                    "id": "127"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "header": "Big Ten - West",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:77",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "7-2",
+                                            "displayValue": "7-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-1",
+                                            "displayValue": "6-1",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Northwestern",
+                                    "id": "77"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2294",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Iowa",
+                                    "id": "2294"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:275",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "4-3",
+                                            "displayValue": "4-3",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-3",
+                                            "displayValue": "3-3",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Wisconsin",
+                                    "id": "275"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:135",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-4",
+                                            "displayValue": "3-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-4",
+                                            "displayValue": "3-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/135/minnesota-golden-gophers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Minnesota",
+                                    "id": "135"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:158",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-5",
+                                            "displayValue": "3-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-5",
+                                            "displayValue": "3-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/158/nebraska-cornhuskers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Nebraska",
+                                    "id": "158"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2509",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2509/purdue-boilermakers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Purdue",
+                                    "id": "2509"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:356",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-6",
+                                            "displayValue": "2-6",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-6",
+                                            "displayValue": "2-6",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Illinois",
+                                    "id": "356"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 6,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101940413",
+            "text": "2 yard rushing touchdown",
+            "clock": {
+                "displayValue": "0:52",
+                "value": 52
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 7,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101940414",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "0:52",
+                "value": 52
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 7,
+            "awayScore": 3,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2227101940616",
+            "text": "IU field goal is good",
+            "clock": {
+                "displayValue": "12:23",
+                "value": 743
+            },
+            "team": {
+                "uid": "s:20~l:23~t:84",
+                "displayName": "Indiana Hoosiers",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/84",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "84",
+                "abbreviation": "IU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 13,
+            "awayScore": 3,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101941006",
+            "text": "1 yard rushing touchdown",
+            "clock": {
+                "displayValue": "6:43",
+                "value": 403
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 14,
+            "awayScore": 3,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101941007",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "6:43",
+                "value": 403
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 14,
+            "awayScore": 9,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101941209",
+            "text": "IU 17 yard passing touchdown",
+            "clock": {
+                "displayValue": "2:25",
+                "value": 145
+            },
+            "team": {
+                "uid": "s:20~l:23~t:84",
+                "displayName": "Indiana Hoosiers",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/84",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "84",
+                "abbreviation": "IU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 14,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101941210",
+            "text": "IU extra point is good",
+            "clock": {
+                "displayValue": "2:25",
+                "value": 145
+            },
+            "team": {
+                "uid": "s:20~l:23~t:84",
+                "displayName": "Indiana Hoosiers",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/84",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "84",
+                "abbreviation": "IU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 20,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101941408",
+            "text": "4 yard rushing touchdown",
+            "clock": {
+                "displayValue": "0:44",
+                "value": 44
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 21,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101941409",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "0:44",
+                "value": 44
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 27,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101941805",
+            "text": "43 yard rushing touchdown",
+            "clock": {
+                "displayValue": "12:40",
+                "value": 760
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 28,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101941806",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "12:40",
+                "value": 760
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 34,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101942104",
+            "text": "OSU 4 yard passing touchdown",
+            "clock": {
+                "displayValue": "7:18",
+                "value": 438
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 35,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101942105",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "7:18",
+                "value": 438
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 38,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2227101942409",
+            "text": "OSU field goal is good",
+            "clock": {
+                "displayValue": "1:58",
+                "value": 118
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 44,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101942712",
+            "text": "OSU 15 yard passing touchdown",
+            "clock": {
+                "displayValue": "6:15",
+                "value": 375
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 45,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101942713",
+            "text": "OSU extra point is good",
+            "clock": {
+                "displayValue": "6:15",
+                "value": 375
+            },
+            "team": {
+                "uid": "s:20~l:23~t:194",
+                "displayName": "Ohio State Buckeyes",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/194",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "194",
+                "abbreviation": "OSU"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 45,
+            "awayScore": 16,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2227101942908",
+            "text": "IU 30 yard passing touchdown",
+            "clock": {
+                "displayValue": "3:12",
+                "value": 192
+            },
+            "team": {
+                "uid": "s:20~l:23~t:84",
+                "displayName": "Indiana Hoosiers",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/84",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "84",
+                "abbreviation": "IU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 45,
+            "awayScore": 17,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2227101942909",
+            "text": "IU extra point is good",
+            "clock": {
+                "displayValue": "3:12",
+                "value": 192
+            },
+            "team": {
+                "uid": "s:20~l:23~t:84",
+                "displayName": "Indiana Hoosiers",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/84",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "84",
+                "abbreviation": "IU"
+            }
+        }
+    ],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2002-09-28T16:10Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": true,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:222710194~c:222710194",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:194",
+                "homeAway": "home",
+                "score": "45",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "5-0",
+                        "displayValue": "5-0",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "4-0",
+                        "displayValue": "4-0",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "rank": 6,
+                "id": "194",
+                "team": {
+                    "uid": "s:20~l:23~t:194",
+                    "alternateColor": "666666",
+                    "color": "DE3121",
+                    "displayName": "Ohio State Buckeyes",
+                    "name": "Buckeyes",
+                    "nickname": "Ohio State",
+                    "location": "Ohio State",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "194",
+                    "abbreviation": "OSU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "17"
+                    },
+                    {
+                        "displayValue": "7"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:84",
+                "homeAway": "away",
+                "score": "17",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "2-3",
+                        "displayValue": "2-3",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-3",
+                        "displayValue": "0-3",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "84",
+                "team": {
+                    "uid": "s:20~l:23~t:84",
+                    "alternateColor": "eeedeb",
+                    "color": "7D110C",
+                    "displayName": "Indiana Hoosiers",
+                    "name": "Hoosiers",
+                    "nickname": "Indiana",
+                    "location": "Indiana",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "84",
+                    "abbreviation": "IU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "10"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "7"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": false,
+        "id": "222710194",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "none",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2002,
+        "type": 2
+    }
+}

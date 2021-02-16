@@ -1,0 +1,2410 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Commodores",
+                    "uid": "s:20~l:23~t:238",
+                    "alternateColor": "231f20",
+                    "color": "000000",
+                    "displayName": "Vanderbilt Commodores",
+                    "name": "Commodores",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                    "location": "Vanderbilt",
+                    "id": "238",
+                    "abbreviation": "VAN",
+                    "slug": "vanderbilt-commodores"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Yellow Jackets",
+                    "uid": "s:20~l:23~t:59",
+                    "alternateColor": "002c56",
+                    "color": "00223e",
+                    "displayName": "Georgia Tech Yellow Jackets",
+                    "name": "Yellow Jackets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                    "location": "Georgia Tech",
+                    "id": "59",
+                    "abbreviation": "GT",
+                    "slug": "georgia-tech-yellow-jackets"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Commodores",
+                    "uid": "s:20~l:23~t:238",
+                    "alternateColor": "231f20",
+                    "color": "000000",
+                    "displayName": "Vanderbilt Commodores",
+                    "name": "Commodores",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                    "location": "Vanderbilt",
+                    "id": "238",
+                    "abbreviation": "VAN",
+                    "slug": "vanderbilt-commodores"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Yellow Jackets",
+                    "uid": "s:20~l:23~t:59",
+                    "alternateColor": "002c56",
+                    "color": "00223e",
+                    "displayName": "Georgia Tech Yellow Jackets",
+                    "name": "Yellow Jackets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                    "location": "Georgia Tech",
+                    "id": "59",
+                    "abbreviation": "GT",
+                    "slug": "georgia-tech-yellow-jackets"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:222430059",
+        "week": 2,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2002-08-31T22:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:222430059~c:222430059",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:59",
+                        "homeAway": "home",
+                        "score": "45",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "59",
+                        "team": {
+                            "uid": "s:20~l:23~t:59",
+                            "alternateColor": "002c56",
+                            "color": "00223e",
+                            "displayName": "Georgia Tech Yellow Jackets",
+                            "name": "Yellow Jackets",
+                            "nickname": "Georgia Tech",
+                            "location": "Georgia Tech",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "59",
+                            "abbreviation": "GT",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "31"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:238",
+                        "homeAway": "away",
+                        "score": "3",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "0-0",
+                                "displayValue": "0-0",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "238",
+                        "team": {
+                            "uid": "s:20~l:23~t:238",
+                            "alternateColor": "231f20",
+                            "color": "000000",
+                            "displayName": "Vanderbilt Commodores",
+                            "name": "Commodores",
+                            "nickname": "Vanderbilt",
+                            "location": "Vanderbilt",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "238",
+                            "abbreviation": "VAN",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "3"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": false,
+                "id": "222430059",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "none",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2002,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/222430059",
+                "text": "Gamecast",
+                "isPremium": false
+            }
+        ],
+        "id": "222430059"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 Southeastern Conference Standings",
+                "href": "https://www.espn.com/college-football/standings/_/group/8/view/fbs-i-a",
+                "divisions": [
+                    {
+                        "header": "SEC - East",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:57",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "8-4",
+                                            "displayValue": "8-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "8-2",
+                                            "displayValue": "8-2",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/57/florida-gators",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Florida",
+                                    "id": "57"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:61",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "8-2",
+                                            "displayValue": "8-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "7-2",
+                                            "displayValue": "7-2",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Georgia",
+                                    "id": "61"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:142",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "5-5",
+                                            "displayValue": "5-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "5-5",
+                                            "displayValue": "5-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Missouri",
+                                    "id": "142"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:96",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "5-6",
+                                            "displayValue": "5-6",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "4-6",
+                                            "displayValue": "4-6",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Kentucky",
+                                    "id": "96"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2633",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-7",
+                                            "displayValue": "3-7",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-7",
+                                            "displayValue": "3-7",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Tennessee",
+                                    "id": "2633"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2579",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-8",
+                                            "displayValue": "2-8",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-8",
+                                            "displayValue": "2-8",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "South Carolina",
+                                    "id": "2579"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:238",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "0-9",
+                                            "displayValue": "0-9",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "0-9",
+                                            "displayValue": "0-9",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Vanderbilt",
+                                    "id": "238"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "header": "SEC - West",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:333",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "13-0",
+                                            "displayValue": "13-0",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "10-0",
+                                            "displayValue": "10-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Alabama",
+                                    "id": "333"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:245",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "9-1",
+                                            "displayValue": "9-1",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "8-1",
+                                            "displayValue": "8-1",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/245/texas-am-aggies",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Texas A&M",
+                                    "id": "245"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "6-5",
+                                            "displayValue": "6-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-4",
+                                            "displayValue": "6-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2/auburn-tigers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Auburn",
+                                    "id": "2"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:99",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "5-5",
+                                            "displayValue": "5-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "5-5",
+                                            "displayValue": "5-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/99/lsu-tigers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "LSU",
+                                    "id": "99"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:145",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "5-5",
+                                            "displayValue": "5-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "4-5",
+                                            "displayValue": "4-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Ole Miss",
+                                    "id": "145"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:8",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-7",
+                                            "displayValue": "3-7",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-7",
+                                            "displayValue": "3-7",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Arkansas",
+                                    "id": "8"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:344",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "4-7",
+                                            "displayValue": "4-7",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-7",
+                                            "displayValue": "3-7",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Mississippi State",
+                                    "id": "344"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "header": "2020 Atlantic Coast Conference Standings",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:20~l:23~t:87",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "10-2",
+                                    "displayValue": "10-2",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "9-0",
+                                    "displayValue": "9-0",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Notre Dame",
+                            "id": "87"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:228",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "10-2",
+                                    "displayValue": "10-2",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "8-1",
+                                    "displayValue": "8-1",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/228/clemson-tigers",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Clemson",
+                            "id": "228"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:2390",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "8-3",
+                                    "displayValue": "8-3",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "7-2",
+                                    "displayValue": "7-2",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Miami",
+                            "id": "2390"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:153",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "8-4",
+                                    "displayValue": "8-4",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "7-3",
+                                    "displayValue": "7-3",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "North Carolina",
+                            "id": "153"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:152",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "8-4",
+                                    "displayValue": "8-4",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "7-3",
+                                    "displayValue": "7-3",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "NC State",
+                            "id": "152"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:103",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "6-5",
+                                    "displayValue": "6-5",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "5-5",
+                                    "displayValue": "5-5",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/103/boston-college-eagles",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Boston College",
+                            "id": "103"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:221",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "6-5",
+                                    "displayValue": "6-5",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "5-5",
+                                    "displayValue": "5-5",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/221/pittsburgh-panthers",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Pittsburgh",
+                            "id": "221"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:259",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "5-6",
+                                    "displayValue": "5-6",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "5-5",
+                                    "displayValue": "5-5",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Virginia Tech",
+                            "id": "259"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:258",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "5-5",
+                                    "displayValue": "5-5",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "4-5",
+                                    "displayValue": "4-5",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Virginia",
+                            "id": "258"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:154",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "4-5",
+                                    "displayValue": "4-5",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "3-4",
+                                    "displayValue": "3-4",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Wake Forest",
+                            "id": "154"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:59",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "3-7",
+                                    "displayValue": "3-7",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "3-6",
+                                    "displayValue": "3-6",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Georgia Tech",
+                            "id": "59"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:97",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "4-7",
+                                    "displayValue": "4-7",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "3-7",
+                                    "displayValue": "3-7",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/97/louisville-cardinals",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Louisville",
+                            "id": "97"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:52",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "3-6",
+                                    "displayValue": "3-6",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "2-6",
+                                    "displayValue": "2-6",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Florida State",
+                            "id": "52"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:150",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "2-9",
+                                    "displayValue": "2-9",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "1-9",
+                                    "displayValue": "1-9",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/150/duke-blue-devils",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Duke",
+                            "id": "150"
+                        },
+                        {
+                            "uid": "s:20~l:23~t:183",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "OVER",
+                                    "summary": "1-10",
+                                    "displayValue": "1-10",
+                                    "displayName": "Overall",
+                                    "name": "overall",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "overall",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "1-9",
+                                    "displayValue": "1-9",
+                                    "displayName": "vs. Conference",
+                                    "name": "vsConf",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "https://www.espn.com/college-football/team/_/id/183/syracuse-orange",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Syracuse",
+                            "id": "183"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 6,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300590516",
+            "text": "GT 1 yard passing touchdown",
+            "clock": {
+                "displayValue": "15:00",
+                "value": 900
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 7,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300590517",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "15:00",
+                "value": 900
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 13,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300590806",
+            "text": "2 yard rushing touchdown",
+            "clock": {
+                "displayValue": "10:06",
+                "value": 606
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 14,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300590807",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "10:06",
+                "value": 606
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 20,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300591104",
+            "text": "GT 38 yard passing touchdown",
+            "clock": {
+                "displayValue": "7:00",
+                "value": 420
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 21,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300591105",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "7:00",
+                "value": 420
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 24,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2224300591409",
+            "text": "GT field goal is good",
+            "clock": {
+                "displayValue": "4:11",
+                "value": 251
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 30,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300591705",
+            "text": "GT 4 yard passing touchdown",
+            "clock": {
+                "displayValue": "1:26",
+                "value": 86
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 31,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300591706",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "1:26",
+                "value": 86
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 37,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300592201",
+            "text": "56 yard rushing touchdown",
+            "clock": {
+                "displayValue": "13:37",
+                "value": 817
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 38,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300592203",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "13:37",
+                "value": 817
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 44,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2224300592714",
+            "text": "5 yard rushing touchdown",
+            "clock": {
+                "displayValue": "0:32",
+                "value": 32
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 45,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2224300592715",
+            "text": "GT extra point is good",
+            "clock": {
+                "displayValue": "0:32",
+                "value": 32
+            },
+            "team": {
+                "uid": "s:20~l:23~t:59",
+                "displayName": "Georgia Tech Yellow Jackets",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/59",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "59",
+                "abbreviation": "GT"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 45,
+            "awayScore": 3,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2224300593506",
+            "text": "VAN field goal is good",
+            "clock": {
+                "displayValue": "3:30",
+                "value": 210
+            },
+            "team": {
+                "uid": "s:20~l:23~t:238",
+                "displayName": "Vanderbilt Commodores",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/238",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "238",
+                "abbreviation": "VAN"
+            }
+        }
+    ],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2002-08-31T22:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:222430059~c:222430059",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:59",
+                "homeAway": "home",
+                "score": "45",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "59",
+                "team": {
+                    "uid": "s:20~l:23~t:59",
+                    "alternateColor": "002c56",
+                    "color": "00223e",
+                    "displayName": "Georgia Tech Yellow Jackets",
+                    "name": "Yellow Jackets",
+                    "nickname": "Georgia Tech",
+                    "location": "Georgia Tech",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "59",
+                    "abbreviation": "GT",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "31"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:238",
+                "homeAway": "away",
+                "score": "3",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "0-0",
+                        "displayValue": "0-0",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "238",
+                "team": {
+                    "uid": "s:20~l:23~t:238",
+                    "alternateColor": "231f20",
+                    "color": "000000",
+                    "displayName": "Vanderbilt Commodores",
+                    "name": "Commodores",
+                    "nickname": "Vanderbilt",
+                    "location": "Vanderbilt",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "238",
+                    "abbreviation": "VAN",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "3"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": false,
+        "id": "222430059",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "none",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2002,
+        "type": 2
+    }
+}

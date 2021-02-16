@@ -1,0 +1,1824 @@
+{
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Wildcats",
+                    "uid": "s:20~l:23~t:77",
+                    "alternateColor": "d6cac1",
+                    "color": "372286",
+                    "displayName": "Northwestern Wildcats",
+                    "name": "Wildcats",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                    "location": "Northwestern",
+                    "id": "77",
+                    "abbreviation": "NW",
+                    "slug": "northwestern-wildcats"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Nittany Lions",
+                    "uid": "s:20~l:23~t:213",
+                    "alternateColor": "002e5c",
+                    "color": "00265D",
+                    "displayName": "Penn State Nittany Lions",
+                    "name": "Nittany Lions",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                    "location": "Penn State",
+                    "id": "213",
+                    "abbreviation": "PSU",
+                    "slug": "penn-state-nittany-lions"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Wildcats",
+                    "uid": "s:20~l:23~t:77",
+                    "alternateColor": "d6cac1",
+                    "color": "372286",
+                    "displayName": "Northwestern Wildcats",
+                    "name": "Wildcats",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                    "location": "Northwestern",
+                    "id": "77",
+                    "abbreviation": "NW",
+                    "slug": "northwestern-wildcats"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Nittany Lions",
+                    "uid": "s:20~l:23~t:213",
+                    "alternateColor": "002e5c",
+                    "color": "00265D",
+                    "displayName": "Penn State Nittany Lions",
+                    "name": "Nittany Lions",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                    "location": "Penn State",
+                    "id": "213",
+                    "abbreviation": "PSU",
+                    "slug": "penn-state-nittany-lions"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:23~e:222920213",
+        "week": 9,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:23",
+            "midsizeName": "NCAA Football",
+            "name": "NCAA - Football",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "23",
+            "abbreviation": "NCAAF",
+            "slug": "college-football",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2002-10-19T16:05Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": true,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "ESPN2"
+                        },
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:23~e:222920213~c:222920213",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:23~t:213",
+                        "homeAway": "home",
+                        "score": "49",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "5-2",
+                                "displayValue": "5-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "4-1",
+                                "displayValue": "4-1",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "2-2",
+                                "displayValue": "2-2",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "rank": 20,
+                        "id": "213",
+                        "team": {
+                            "uid": "s:20~l:23~t:213",
+                            "alternateColor": "002e5c",
+                            "color": "00265D",
+                            "displayName": "Penn State Nittany Lions",
+                            "name": "Nittany Lions",
+                            "nickname": "Penn State",
+                            "location": "Penn State",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "213",
+                            "abbreviation": "PSU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "28"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "7"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:23~t:77",
+                        "homeAway": "away",
+                        "score": "0",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "2-6",
+                                "displayValue": "2-6",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-4",
+                                "displayValue": "1-4",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "0-4",
+                                "displayValue": "0-4",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "77",
+                        "team": {
+                            "uid": "s:20~l:23~t:77",
+                            "alternateColor": "d6cac1",
+                            "color": "372286",
+                            "displayName": "Northwestern Wildcats",
+                            "name": "Wildcats",
+                            "nickname": "Northwestern",
+                            "location": "Northwestern",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "77",
+                            "abbreviation": "NW",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": true,
+                "boxscoreAvailable": false,
+                "id": "222920213",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "none",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2002,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/game/_/gameId/222920213",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/college-football/recap?gameId=222920213",
+                "text": "Recap",
+                "isPremium": false
+            }
+        ],
+        "id": "222920213"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/college-football/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 Big Ten Conference Standings",
+                "href": "https://www.espn.com/college-football/standings/_/group/5/view/fbs-i-a",
+                "divisions": [
+                    {
+                        "header": "Big Ten - East",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:194",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "7-1",
+                                            "displayValue": "7-1",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "5-0",
+                                            "displayValue": "5-0",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Ohio State",
+                                    "id": "194"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:84",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-1",
+                                            "displayValue": "6-1",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Indiana",
+                                    "id": "84"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:213",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "4-5",
+                                            "displayValue": "4-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "4-5",
+                                            "displayValue": "4-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Penn State",
+                                    "id": "213"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:120",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-3",
+                                            "displayValue": "2-3",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-3",
+                                            "displayValue": "2-3",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/120/maryland-terrapins",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Maryland",
+                                    "id": "120"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:164",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-6",
+                                            "displayValue": "3-6",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-6",
+                                            "displayValue": "3-6",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/164/rutgers-scarlet-knights",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Rutgers",
+                                    "id": "164"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:130",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Michigan",
+                                    "id": "130"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:127",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-5",
+                                            "displayValue": "2-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-5",
+                                            "displayValue": "2-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/127/michigan-state-spartans",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Michigan State",
+                                    "id": "127"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "header": "Big Ten - West",
+                        "standings": {
+                            "entries": [
+                                {
+                                    "uid": "s:20~l:23~t:77",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "7-2",
+                                            "displayValue": "7-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-1",
+                                            "displayValue": "6-1",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Northwestern",
+                                    "id": "77"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2294",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "6-2",
+                                            "displayValue": "6-2",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Iowa",
+                                    "id": "2294"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:275",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "4-3",
+                                            "displayValue": "4-3",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-3",
+                                            "displayValue": "3-3",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Wisconsin",
+                                    "id": "275"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:135",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-4",
+                                            "displayValue": "3-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-4",
+                                            "displayValue": "3-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/135/minnesota-golden-gophers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Minnesota",
+                                    "id": "135"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:158",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "3-5",
+                                            "displayValue": "3-5",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "3-5",
+                                            "displayValue": "3-5",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/158/nebraska-cornhuskers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Nebraska",
+                                    "id": "158"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:2509",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-4",
+                                            "displayValue": "2-4",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/2509/purdue-boilermakers",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Purdue",
+                                    "id": "2509"
+                                },
+                                {
+                                    "uid": "s:20~l:23~t:356",
+                                    "stats": [
+                                        {
+                                            "shortDisplayName": "OVER",
+                                            "summary": "2-6",
+                                            "displayValue": "2-6",
+                                            "displayName": "Overall",
+                                            "name": "overall",
+                                            "description": "Overall Record",
+                                            "id": "0",
+                                            "abbreviation": "overall",
+                                            "type": "total"
+                                        },
+                                        {
+                                            "shortDisplayName": "CONF",
+                                            "summary": "2-6",
+                                            "displayValue": "2-6",
+                                            "displayName": "vs. Conference",
+                                            "name": "vsConf",
+                                            "description": "Conference Record",
+                                            "id": "9",
+                                            "abbreviation": "CONF",
+                                            "type": "vsconf"
+                                        }
+                                    ],
+                                    "link": "https://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini",
+                                    "logo": [
+                                        {
+                                            "width": 500,
+                                            "alt": "",
+                                            "rel": [
+                                                "full",
+                                                "default"
+                                            ],
+                                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+                                            "height": 500
+                                        }
+                                    ],
+                                    "team": "Illinois",
+                                    "id": "356"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 6,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202130507",
+            "text": "1 yard rushing touchdown",
+            "clock": {
+                "displayValue": "5:45",
+                "value": 345
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 7,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202130508",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "5:45",
+                "value": 345
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 13,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202130813",
+            "text": "3 yard rushing touchdown",
+            "clock": {
+                "displayValue": "13:40",
+                "value": 820
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 14,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202130814",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "13:40",
+                "value": 820
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 20,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202131105",
+            "text": "PSU 2 yard passing touchdown",
+            "clock": {
+                "displayValue": "9:00",
+                "value": 540
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 21,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202131106",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "9:00",
+                "value": 540
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 27,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202131407",
+            "text": "1 yard rushing touchdown",
+            "clock": {
+                "displayValue": "3:47",
+                "value": 227
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 28,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202131408",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "3:47",
+                "value": 227
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 34,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202131707",
+            "text": "PSU 40 yard passing touchdown",
+            "clock": {
+                "displayValue": "0:12",
+                "value": 12
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "4",
+                "text": "Pass Completion",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 35,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202131708",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "0:12",
+                "value": 12
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 41,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202132104",
+            "text": "6 yard rushing touchdown",
+            "clock": {
+                "displayValue": "13:42",
+                "value": 822
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 42,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202132105",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "13:42",
+                "value": 822
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 48,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2229202132621",
+            "text": "1 yard rushing touchdown",
+            "clock": {
+                "displayValue": "12:26",
+                "value": 746
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            },
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 49,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2229202132622",
+            "text": "PSU extra point is good",
+            "clock": {
+                "displayValue": "12:26",
+                "value": 746
+            },
+            "team": {
+                "uid": "s:20~l:23~t:213",
+                "displayName": "Penn State Nittany Lions",
+                "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "http://www.espn.com/college-football/team/schedule/_/id/213",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "213",
+                "abbreviation": "PSU"
+            }
+        }
+    ],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2002-10-19T16:05Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": true,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "ESPN2"
+                },
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:23~e:222920213~c:222920213",
+        "competitors": [
+            {
+                "uid": "s:20~l:23~t:213",
+                "homeAway": "home",
+                "score": "49",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "5-2",
+                        "displayValue": "5-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "4-1",
+                        "displayValue": "4-1",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "2-2",
+                        "displayValue": "2-2",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "rank": 20,
+                "id": "213",
+                "team": {
+                    "uid": "s:20~l:23~t:213",
+                    "alternateColor": "002e5c",
+                    "color": "00265D",
+                    "displayName": "Penn State Nittany Lions",
+                    "name": "Nittany Lions",
+                    "nickname": "Penn State",
+                    "location": "Penn State",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "213",
+                    "abbreviation": "PSU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "28"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "7"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:23~t:77",
+                "homeAway": "away",
+                "score": "0",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "2-6",
+                        "displayValue": "2-6",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-4",
+                        "displayValue": "1-4",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "0-4",
+                        "displayValue": "0-4",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "77",
+                "team": {
+                    "uid": "s:20~l:23~t:77",
+                    "alternateColor": "d6cac1",
+                    "color": "372286",
+                    "displayName": "Northwestern Wildcats",
+                    "name": "Wildcats",
+                    "nickname": "Northwestern",
+                    "location": "Northwestern",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "77",
+                    "abbreviation": "NW",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": true,
+        "boxscoreAvailable": false,
+        "id": "222920213",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "none",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2002,
+        "type": 2
+    }
+}
