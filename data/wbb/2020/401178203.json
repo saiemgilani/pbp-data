@@ -1,0 +1,2881 @@
+{
+    "gameId": 401178203,
+    "plays": [],
+    "winprobability": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "UMass",
+                    "uid": "s:40~l:54~t:113",
+                    "color": "880007",
+                    "displayName": "UMass Minutewomen",
+                    "name": "Minutewomen",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                    "location": "UMass",
+                    "id": "113",
+                    "abbreviation": "MASS",
+                    "slug": "umass-minutewomen"
+                },
+                "statistics": [
+                    {
+                        "displayValue": "19-62",
+                        "name": "fieldGoalsMade-fieldGoalsAttempted",
+                        "label": "FG"
+                    },
+                    {
+                        "displayValue": "30.6",
+                        "name": "fieldGoalPct",
+                        "label": "Field Goal %",
+                        "abbreviation": "FG%"
+                    },
+                    {
+                        "displayValue": "8-29",
+                        "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+                        "label": "3PT"
+                    },
+                    {
+                        "displayValue": "27.6",
+                        "name": "threePointFieldGoalPct",
+                        "label": "Three Point %",
+                        "abbreviation": "3P%"
+                    },
+                    {
+                        "displayValue": "10-15",
+                        "name": "freeThrowsMade-freeThrowsAttempted",
+                        "label": "FT"
+                    },
+                    {
+                        "displayValue": "66.7",
+                        "name": "freeThrowPct",
+                        "label": "Free Throw %",
+                        "abbreviation": "FT%"
+                    },
+                    {
+                        "displayValue": "34",
+                        "name": "totalRebounds",
+                        "label": "Rebounds",
+                        "abbreviation": "REB"
+                    },
+                    {
+                        "displayValue": "10",
+                        "name": "offensiveRebounds",
+                        "label": "Offensive Rebounds",
+                        "abbreviation": "OR"
+                    },
+                    {
+                        "displayValue": "24",
+                        "name": "defensiveRebounds",
+                        "label": "Defensive Rebounds",
+                        "abbreviation": "DR"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamRebounds",
+                        "label": "Team Rebounds",
+                        "abbreviation": "TREB"
+                    },
+                    {
+                        "displayValue": "8",
+                        "name": "assists",
+                        "label": "Assists",
+                        "abbreviation": "AST"
+                    },
+                    {
+                        "displayValue": "3",
+                        "name": "steals",
+                        "label": "Steals",
+                        "abbreviation": "STL"
+                    },
+                    {
+                        "displayValue": "2",
+                        "name": "blocks",
+                        "label": "Blocks",
+                        "abbreviation": "BLK"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "turnovers",
+                        "label": "Turnovers",
+                        "abbreviation": "TO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamTurnovers",
+                        "label": "Team Turnovers",
+                        "abbreviation": "TTO"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "totalTurnovers",
+                        "label": "Total Turnovers",
+                        "abbreviation": "ToTO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "technicalFouls",
+                        "label": "Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "totalTechnicalFouls",
+                        "label": "Total Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "flagrantFouls",
+                        "label": "Flagrant Fouls",
+                        "abbreviation": "FLAG"
+                    },
+                    {
+                        "displayValue": "16",
+                        "name": "fouls",
+                        "label": "Fouls",
+                        "abbreviation": "PF"
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "shortDisplayName": "George Mason",
+                    "uid": "s:40~l:54~t:2244",
+                    "alternateColor": "ecb010",
+                    "color": "016600",
+                    "displayName": "George Mason Patriots",
+                    "name": "Patriots",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+                    "location": "George Mason",
+                    "id": "2244",
+                    "abbreviation": "GMU",
+                    "slug": "george-mason-patriots"
+                },
+                "statistics": [
+                    {
+                        "displayValue": "24-58",
+                        "name": "fieldGoalsMade-fieldGoalsAttempted",
+                        "label": "FG"
+                    },
+                    {
+                        "displayValue": "41.4",
+                        "name": "fieldGoalPct",
+                        "label": "Field Goal %",
+                        "abbreviation": "FG%"
+                    },
+                    {
+                        "displayValue": "7-24",
+                        "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+                        "label": "3PT"
+                    },
+                    {
+                        "displayValue": "29.2",
+                        "name": "threePointFieldGoalPct",
+                        "label": "Three Point %",
+                        "abbreviation": "3P%"
+                    },
+                    {
+                        "displayValue": "18-26",
+                        "name": "freeThrowsMade-freeThrowsAttempted",
+                        "label": "FT"
+                    },
+                    {
+                        "displayValue": "69.2",
+                        "name": "freeThrowPct",
+                        "label": "Free Throw %",
+                        "abbreviation": "FT%"
+                    },
+                    {
+                        "displayValue": "47",
+                        "name": "totalRebounds",
+                        "label": "Rebounds",
+                        "abbreviation": "REB"
+                    },
+                    {
+                        "displayValue": "12",
+                        "name": "offensiveRebounds",
+                        "label": "Offensive Rebounds",
+                        "abbreviation": "OR"
+                    },
+                    {
+                        "displayValue": "35",
+                        "name": "defensiveRebounds",
+                        "label": "Defensive Rebounds",
+                        "abbreviation": "DR"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamRebounds",
+                        "label": "Team Rebounds",
+                        "abbreviation": "TREB"
+                    },
+                    {
+                        "displayValue": "15",
+                        "name": "assists",
+                        "label": "Assists",
+                        "abbreviation": "AST"
+                    },
+                    {
+                        "displayValue": "5",
+                        "name": "steals",
+                        "label": "Steals",
+                        "abbreviation": "STL"
+                    },
+                    {
+                        "displayValue": "2",
+                        "name": "blocks",
+                        "label": "Blocks",
+                        "abbreviation": "BLK"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "turnovers",
+                        "label": "Turnovers",
+                        "abbreviation": "TO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamTurnovers",
+                        "label": "Team Turnovers",
+                        "abbreviation": "TTO"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "totalTurnovers",
+                        "label": "Total Turnovers",
+                        "abbreviation": "ToTO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "technicalFouls",
+                        "label": "Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "totalTechnicalFouls",
+                        "label": "Total Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "flagrantFouls",
+                        "label": "Flagrant Fouls",
+                        "abbreviation": "FLAG"
+                    },
+                    {
+                        "displayValue": "15",
+                        "name": "fouls",
+                        "label": "Fouls",
+                        "abbreviation": "PF"
+                    }
+                ]
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "UMass",
+                    "uid": "s:40~l:54~t:113",
+                    "color": "880007",
+                    "displayName": "UMass Minutewomen",
+                    "name": "Minutewomen",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                    "location": "UMass",
+                    "id": "113",
+                    "abbreviation": "MASS",
+                    "slug": "umass-minutewomen"
+                },
+                "statistics": [
+                    {
+                        "names": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "PTS"
+                        ],
+                        "athletes": [
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281234",
+                                    "displayName": "Sam Breen",
+                                    "headshot": {
+                                        "alt": "Sam Breen",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281234.png"
+                                    },
+                                    "jersey": "34",
+                                    "guid": "63d0bf531cf863b8087f883349127bd9",
+                                    "links": [],
+                                    "id": "4281234",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "S. Breen"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "30",
+                                    "8-18",
+                                    "4-6",
+                                    "1-1",
+                                    "2",
+                                    "2",
+                                    "4",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "21"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594789",
+                                    "displayName": "Maeve Donnelly",
+                                    "headshot": {
+                                        "alt": "Maeve Donnelly",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594789.png"
+                                    },
+                                    "jersey": "33",
+                                    "guid": "e5671481-bd09-30df-aa96-39d2874077b0",
+                                    "links": [],
+                                    "id": "4594789",
+                                    "position": {
+                                        "displayName": "Center",
+                                        "name": "Center",
+                                        "abbreviation": "C"
+                                    },
+                                    "shortName": "M. Donnelly"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "36",
+                                    "1-4",
+                                    "0-2",
+                                    "2-2",
+                                    "2",
+                                    "7",
+                                    "9",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "4"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281849",
+                                    "displayName": "Bre Hampton-Bey",
+                                    "headshot": {
+                                        "alt": "Bre Hampton-Bey",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281849.png"
+                                    },
+                                    "jersey": "23",
+                                    "guid": "35134d3e150dfa17af6bf9b643e77115",
+                                    "links": [],
+                                    "id": "4281849",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "B. Hampton-Bey"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "28",
+                                    "3-7",
+                                    "2-5",
+                                    "2-2",
+                                    "4",
+                                    "1",
+                                    "5",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "2",
+                                    "3",
+                                    "10"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068564",
+                                    "displayName": "Hailey Leidel",
+                                    "headshot": {
+                                        "alt": "Hailey Leidel",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068564.png"
+                                    },
+                                    "jersey": "24",
+                                    "guid": "230efc790e5f3b2bf9a567f39f1576e6",
+                                    "links": [],
+                                    "id": "4068564",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "H. Leidel"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "34",
+                                    "2-14",
+                                    "0-8",
+                                    "1-2",
+                                    "0",
+                                    "2",
+                                    "2",
+                                    "1",
+                                    "2",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "5"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068306",
+                                    "displayName": "Vashnie Perry",
+                                    "headshot": {
+                                        "alt": "Vashnie Perry",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068306.png"
+                                    },
+                                    "jersey": "23",
+                                    "guid": "c840d39b274157e64264f7a2dd0fc240",
+                                    "links": [],
+                                    "id": "4068306",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "V. Perry"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "23",
+                                    "0-5",
+                                    "0-3",
+                                    "0-0",
+                                    "1",
+                                    "4",
+                                    "5",
+                                    "2",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "2",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594787",
+                                    "displayName": "Grace Heeps",
+                                    "headshot": {
+                                        "alt": "Grace Heeps",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594787.png"
+                                    },
+                                    "jersey": "14",
+                                    "guid": "e99ab6ce-2cfa-3afc-a1e6-d359f27cac15",
+                                    "links": [],
+                                    "id": "4594787",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "G. Heeps"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "9",
+                                    "1-2",
+                                    "1-2",
+                                    "2-2",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "5"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594786",
+                                    "displayName": "Sydney Taylor",
+                                    "headshot": {
+                                        "alt": "Sydney Taylor",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594786.png"
+                                    },
+                                    "jersey": "1",
+                                    "guid": "b91883fa-0be3-3459-84de-71b3aae5761a",
+                                    "links": [],
+                                    "id": "4594786",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "S. Taylor"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "5",
+                                    "1-3",
+                                    "1-2",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "3",
+                                    "2",
+                                    "3"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399446",
+                                    "displayName": "Madison Lowery",
+                                    "headshot": {
+                                        "alt": "Madison Lowery",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399446.png"
+                                    },
+                                    "jersey": "32",
+                                    "guid": "08bb92859a076e4c48fc3d91e445833a",
+                                    "links": [],
+                                    "id": "4399446",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "M. Lowery"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "2",
+                                    "0-0",
+                                    "0-0",
+                                    "1-2",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399441",
+                                    "displayName": "Destiney Philoxy",
+                                    "headshot": {
+                                        "alt": "Destiney Philoxy",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399441.png"
+                                    },
+                                    "jersey": "3",
+                                    "guid": "970bfbe897f2dd8655ea37edf4fea6c5",
+                                    "links": [],
+                                    "id": "4399441",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "D. Philoxy"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "20",
+                                    "3-5",
+                                    "0-0",
+                                    "1-4",
+                                    "0",
+                                    "2",
+                                    "2",
+                                    "3",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "3",
+                                    "7"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281851",
+                                    "displayName": "Paige McCormick",
+                                    "headshot": {
+                                        "alt": "Paige McCormick",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281851.png"
+                                    },
+                                    "jersey": "15",
+                                    "guid": "a8ec3ae89030741ec1cb27967f39c01a",
+                                    "links": [],
+                                    "id": "4281851",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "P. McCormick"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "13",
+                                    "0-4",
+                                    "0-1",
+                                    "0-0",
+                                    "0",
+                                    "2",
+                                    "2",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594788",
+                                    "displayName": "Angelique Ngalakulondi",
+                                    "headshot": {
+                                        "alt": "Angelique Ngalakulondi",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594788.png"
+                                    },
+                                    "jersey": "30",
+                                    "guid": "a4daed72-ec3f-3fcf-b923-d54ef4662746",
+                                    "links": [],
+                                    "id": "4594788",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "A. Ngalakulondi"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399444",
+                                    "displayName": "Jessica Nelson",
+                                    "headshot": {
+                                        "alt": "Jessica Nelson",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399444.png"
+                                    },
+                                    "jersey": "21",
+                                    "guid": "7eeb3bdf64f3602f7e1bc940f38ce1fa",
+                                    "links": [],
+                                    "id": "4399444",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "J. Nelson"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399442",
+                                    "displayName": "Lauraine Joensen",
+                                    "headshot": {
+                                        "alt": "Lauraine Joensen",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399442.png"
+                                    },
+                                    "jersey": "10",
+                                    "guid": "5cae209278a91ed54b94367fa47b4898",
+                                    "links": [],
+                                    "id": "4399442",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "L. Joensen"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068903",
+                                    "displayName": "Maddie Sims",
+                                    "headshot": {
+                                        "alt": "Maddie Sims",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068903.png"
+                                    },
+                                    "jersey": "25",
+                                    "guid": "d49a61ddd382fef115a351712c86d25a",
+                                    "links": [],
+                                    "id": "4068903",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "M. Sims"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281112",
+                                    "displayName": "Desiree Oliver",
+                                    "headshot": {
+                                        "alt": "Desiree Oliver",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281112.png"
+                                    },
+                                    "jersey": "13",
+                                    "guid": "2b703f214a508c67b845de3c90628ff4",
+                                    "links": [],
+                                    "id": "4281112",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "D. Oliver"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            }
+                        ],
+                        "totals": [
+                            "",
+                            "19-62",
+                            "8-29",
+                            "10-15",
+                            "10",
+                            "24",
+                            "34",
+                            "8",
+                            "3",
+                            "2",
+                            "9",
+                            "16",
+                            "56"
+                        ],
+                        "descriptions": [
+                            "Minutes",
+                            "Field Goals Made/Attempted",
+                            "3-Point Field Goals Made/Attempted",
+                            "Free Throws Made/Attempted",
+                            "Offensive Rebounds",
+                            "Defensive Rebounds",
+                            "Rebounds",
+                            "Assists",
+                            "Steals",
+                            "Blocks",
+                            "Turnovers",
+                            "Personal Fouls",
+                            "Points"
+                        ],
+                        "labels": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "PTS"
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "shortDisplayName": "George Mason",
+                    "uid": "s:40~l:54~t:2244",
+                    "alternateColor": "ecb010",
+                    "color": "016600",
+                    "displayName": "George Mason Patriots",
+                    "name": "Patriots",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+                    "location": "George Mason",
+                    "id": "2244",
+                    "abbreviation": "GMU",
+                    "slug": "george-mason-patriots"
+                },
+                "statistics": [
+                    {
+                        "names": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "PTS"
+                        ],
+                        "athletes": [
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594773",
+                                    "displayName": "Jazmyn Doster",
+                                    "headshot": {
+                                        "alt": "Jazmyn Doster",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594773.png"
+                                    },
+                                    "jersey": "1",
+                                    "guid": "ec5b8aa0-a5cb-3b60-bfdd-2db8b9f13585",
+                                    "links": [],
+                                    "id": "4594773",
+                                    "position": {
+                                        "displayName": "Center",
+                                        "name": "Center",
+                                        "abbreviation": "C"
+                                    },
+                                    "shortName": "J. Doster"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "21",
+                                    "3-4",
+                                    "0-0",
+                                    "1-2",
+                                    "2",
+                                    "5",
+                                    "7",
+                                    "2",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "7"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281477",
+                                    "displayName": "Nicole Cardano-Hillary",
+                                    "headshot": {
+                                        "alt": "Nicole Cardano-Hillary",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281477.png"
+                                    },
+                                    "jersey": "4",
+                                    "guid": "8b1f9ae98a198a8e87e0f577abcfb54b",
+                                    "links": [],
+                                    "id": "4281477",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "N. Cardano-Hillary"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "39",
+                                    "6-19",
+                                    "1-5",
+                                    "4-8",
+                                    "1",
+                                    "6",
+                                    "7",
+                                    "5",
+                                    "2",
+                                    "0",
+                                    "3",
+                                    "4",
+                                    "17"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281476",
+                                    "displayName": "Marika Korpinen",
+                                    "headshot": {
+                                        "alt": "Marika Korpinen",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281476.png"
+                                    },
+                                    "jersey": "12",
+                                    "guid": "90a09aa75ce0cdeca8daa237cbaa38a5",
+                                    "links": [],
+                                    "id": "4281476",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "M. Korpinen"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "37",
+                                    "5-10",
+                                    "2-5",
+                                    "4-5",
+                                    "3",
+                                    "4",
+                                    "7",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "16"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068461",
+                                    "displayName": "Sarah Kaminski",
+                                    "headshot": {
+                                        "alt": "Sarah Kaminski",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068461.png"
+                                    },
+                                    "jersey": "44",
+                                    "guid": "c3471d0e220fd59474b3c384fa1f9fac",
+                                    "links": [],
+                                    "id": "4068461",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "S. Kaminski"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "19",
+                                    "1-2",
+                                    "1-2",
+                                    "0-0",
+                                    "1",
+                                    "3",
+                                    "4",
+                                    "0",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "3",
+                                    "3"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068458",
+                                    "displayName": "Jacy Bolton",
+                                    "headshot": {
+                                        "alt": "Jacy Bolton",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068458.png"
+                                    },
+                                    "jersey": "11",
+                                    "guid": "1de212e7e254f4225c7eaa7b74312723",
+                                    "links": [],
+                                    "id": "4068458",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "J. Bolton"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "35",
+                                    "5-14",
+                                    "3-11",
+                                    "4-5",
+                                    "1",
+                                    "7",
+                                    "8",
+                                    "3",
+                                    "1",
+                                    "1",
+                                    "1",
+                                    "3",
+                                    "17"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594775",
+                                    "displayName": "Vita Stam",
+                                    "headshot": {
+                                        "alt": "Vita Stam",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594775.png"
+                                    },
+                                    "jersey": "21",
+                                    "guid": "81f66b1a-d9b1-3de5-bd64-53bfc8cceafb",
+                                    "links": [],
+                                    "id": "4594775",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "V. Stam"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "0",
+                                    "0-0",
+                                    "0-0",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4433109",
+                                    "displayName": "Tamia Lawhorne",
+                                    "headshot": {
+                                        "alt": "Tamia Lawhorne",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4433109.png"
+                                    },
+                                    "jersey": "2",
+                                    "guid": "e2ef6e98-6a50-3aec-8231-d302c56e3e3c",
+                                    "links": [],
+                                    "id": "4433109",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "T. Lawhorne"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "6",
+                                    "0-0",
+                                    "0-0",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399315",
+                                    "displayName": "Devyn Wilson",
+                                    "headshot": {
+                                        "alt": "Devyn Wilson",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399315.png"
+                                    },
+                                    "jersey": "15",
+                                    "guid": "7d1193b912ca31a425f04e0006b1d031",
+                                    "links": [],
+                                    "id": "4399315",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "D. Wilson"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "0",
+                                    "0-0",
+                                    "0-0",
+                                    "0-0",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4281479",
+                                    "displayName": "Camarie Gatling",
+                                    "headshot": {
+                                        "alt": "Camarie Gatling",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4281479.png"
+                                    },
+                                    "jersey": "33",
+                                    "guid": "e742bf3850f65ef6cf51ad7b42d052d6",
+                                    "links": [],
+                                    "id": "4281479",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "C. Gatling"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "17",
+                                    "4-5",
+                                    "0-0",
+                                    "1-2",
+                                    "2",
+                                    "2",
+                                    "4",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "9"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068462",
+                                    "displayName": "Allie McCool",
+                                    "headshot": {
+                                        "alt": "Allie McCool",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068462.png"
+                                    },
+                                    "jersey": "35",
+                                    "guid": "15a29c60af51867cb81400bb2eb2ccea",
+                                    "links": [],
+                                    "id": "4068462",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "A. McCool"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "1",
+                                    "0-0",
+                                    "0-0",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594774",
+                                    "displayName": "Jordan Wakefield",
+                                    "headshot": {
+                                        "alt": "Jordan Wakefield",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594774.png"
+                                    },
+                                    "jersey": "3",
+                                    "guid": "07798a43-afa9-32d6-8e23-fd24f24a58d2",
+                                    "links": [],
+                                    "id": "4594774",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "J. Wakefield"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "3",
+                                    "0-2",
+                                    "0-1",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4399314",
+                                    "displayName": "Livija Kaktaite",
+                                    "headshot": {
+                                        "alt": "Livija Kaktaite",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4399314.png"
+                                    },
+                                    "jersey": "4",
+                                    "guid": "12a4ea004b6bef7911069112715fb312",
+                                    "links": [],
+                                    "id": "4399314",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "L. Kaktaite"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "0",
+                                    "0-0",
+                                    "0-0",
+                                    "0-0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4068460",
+                                    "displayName": "Alexsis Grate",
+                                    "headshot": {
+                                        "alt": "Alexsis Grate",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4068460.png"
+                                    },
+                                    "jersey": "5",
+                                    "guid": "f271afe0e3b92db5724e4b3c2b98d410",
+                                    "links": [],
+                                    "id": "4068460",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "A. Grate"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "22",
+                                    "0-2",
+                                    "0-0",
+                                    "4-4",
+                                    "1",
+                                    "3",
+                                    "4",
+                                    "3",
+                                    "1",
+                                    "0",
+                                    "3",
+                                    "2",
+                                    "4"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:54~a:4594776",
+                                    "displayName": "Rachel Balzer",
+                                    "headshot": {
+                                        "alt": "Rachel Balzer",
+                                        "href": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/4594776.png"
+                                    },
+                                    "jersey": "24",
+                                    "guid": "29efd12b-01e1-3063-a474-c35f116c74d4",
+                                    "links": [],
+                                    "id": "4594776",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "R. Balzer"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            }
+                        ],
+                        "totals": [
+                            "",
+                            "24-58",
+                            "7-24",
+                            "18-26",
+                            "12",
+                            "35",
+                            "47",
+                            "15",
+                            "5",
+                            "2",
+                            "9",
+                            "15",
+                            "73"
+                        ],
+                        "descriptions": [
+                            "Minutes",
+                            "Field Goals Made/Attempted",
+                            "3-Point Field Goals Made/Attempted",
+                            "Free Throws Made/Attempted",
+                            "Offensive Rebounds",
+                            "Defensive Rebounds",
+                            "Rebounds",
+                            "Assists",
+                            "Steals",
+                            "Blocks",
+                            "Turnovers",
+                            "Personal Fouls",
+                            "Points"
+                        ],
+                        "labels": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "PTS"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:40~l:54~e:401178203",
+        "week": 14,
+        "timeValid": true,
+        "league": {
+            "uid": "s:40~l:54",
+            "midsizeName": "NCAAW Basketball",
+            "name": "NCAA Women's Basketball",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/womens-college-basketball/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:54",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/womens-college-basketball/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:54&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/womens-college-basketball/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:54&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/womens-college-basketball/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/womens-college-basketball/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:54&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/womens-college-basketball/statistics",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/womens-college-basketball/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/womens-college-basketball/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/womens-college-basketball/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "54",
+            "abbreviation": "NCAAW",
+            "slug": "womens-college-basketball",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2020-02-06T00:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": true,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "ESPN+"
+                        },
+                        "type": {
+                            "id": "4",
+                            "shortName": "Web"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "groups": {
+                    "midsizeName": "Atlantic 10",
+                    "name": "Atlantic 10 Conference",
+                    "id": "3",
+                    "abbreviation": "atl10",
+                    "shortName": "A 10"
+                },
+                "playByPlaySource": "none",
+                "uid": "s:40~l:54~e:401178203~c:401178203",
+                "competitors": [
+                    {
+                        "uid": "s:40~l:54~t:2244",
+                        "homeAway": "home",
+                        "score": "73",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "8-15",
+                                "displayValue": "8-15",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "4-7",
+                                "displayValue": "4-7",
+                                "type": "home"
+                            },
+                            {
+                                "summary": "2-8",
+                                "displayValue": "2-8",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "2244",
+                        "team": {
+                            "uid": "s:40~l:54~t:2244",
+                            "alternateColor": "ecb010",
+                            "color": "016600",
+                            "displayName": "George Mason Patriots",
+                            "name": "Patriots",
+                            "nickname": "George Mason",
+                            "location": "George Mason",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/womens-college-basketball/team/_/id/2244/george-mason-patriots",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "2244",
+                            "abbreviation": "GMU",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2244.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "16"
+                            },
+                            {
+                                "displayValue": "26"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "17"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:40~l:54~t:113",
+                        "homeAway": "away",
+                        "score": "56",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "16-7",
+                                "displayValue": "16-7",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "7-4",
+                                "displayValue": "7-4",
+                                "type": "road"
+                            },
+                            {
+                                "summary": "6-4",
+                                "displayValue": "6-4",
+                                "type": "vsconf"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "113",
+                        "team": {
+                            "uid": "s:40~l:54~t:113",
+                            "color": "880007",
+                            "displayName": "UMass Minutewomen",
+                            "name": "Minutewomen",
+                            "nickname": "UMass",
+                            "location": "UMass",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/womens-college-basketball/team/_/id/113/umass-minutewomen",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "113",
+                            "abbreviation": "MASS",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "17"
+                            },
+                            {
+                                "displayValue": "17"
+                            },
+                            {
+                                "displayValue": "11"
+                            },
+                            {
+                                "displayValue": "11"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": true,
+                "boxscoreAvailable": true,
+                "id": "401178203",
+                "shotChartAvailable": false,
+                "timeoutsAvailable": false,
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "possessionArrowAvailable": false,
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2020,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/womens-college-basketball/game?gameId=401178203",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/womens-college-basketball/boxscore?gameId=401178203",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/womens-college-basketball/matchup?gameId=401178203",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "401178203"
+    },
+    "homeTeamSpread": 2.5,
+    "broadcasts": [
+        {
+            "market": {
+                "id": "1",
+                "type": "National"
+            },
+            "station": "ESPN+",
+            "media": {
+                "callLetters": "ESPN+",
+                "name": "ESPN+",
+                "shortName": "ESPN+"
+            },
+            "type": {
+                "id": "4",
+                "shortName": "Web",
+                "slug": "web",
+                "longName": "Web"
+            },
+            "lang": "en",
+            "region": "us"
+        }
+    ],
+    "videos": [],
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/womens-college-basketball/standings"
+        },
+        "groups": [
+            {
+                "header": "2020-2021 Atlantic 10 Conference Standings",
+                "href": "https://www.espn.com/womens-college-basketball/standings/_/group/3",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:40~l:54~t:2168",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "12-2",
+                                    "displayValue": "12-2",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "-",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "11-1",
+                                    "displayValue": "11-1",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2168/dayton-flyers",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Dayton",
+                            "id": "2168"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2230",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "11-3",
+                                    "displayValue": "11-3",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 2
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "8-2",
+                                    "displayValue": "8-2",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2230/fordham-rams",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Fordham",
+                            "id": "2230"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:139",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "10-3",
+                                    "displayValue": "10-3",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 2.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "8-3",
+                                    "displayValue": "8-3",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/139/saint-louis-billikens",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Saint Louis",
+                            "id": "139"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:257",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "12-6",
+                                    "displayValue": "12-6",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 2.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "9-4",
+                                    "displayValue": "9-4",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/257/richmond-spiders",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Richmond",
+                            "id": "257"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:227",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "9-7",
+                                    "displayValue": "9-7",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 2.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "9-4",
+                                    "displayValue": "9-4",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/227/rhode-island-rams",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Rhode Island",
+                            "id": "227"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2670",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "11-9",
+                                    "displayValue": "11-9",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 2.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "9-4",
+                                    "displayValue": "9-4",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2670/vcu-rams",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "VCU",
+                            "id": "2670"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:113",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "10-5",
+                                    "displayValue": "10-5",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "4",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 4
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "6-4",
+                                    "displayValue": "6-4",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/113/umass-minutewomen",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "UMass",
+                            "id": "113"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2325",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "10-12",
+                                    "displayValue": "10-12",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "6.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 6.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "6-9",
+                                    "displayValue": "6-9",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2325/la-salle-explorers",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "La Salle",
+                            "id": "2325"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2166",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "8-11",
+                                    "displayValue": "8-11",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "6.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 6.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "5-8",
+                                    "displayValue": "5-8",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2166/davidson-wildcats",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Davidson",
+                            "id": "2166"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:179",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "6-12",
+                                    "displayValue": "6-12",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "7.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 7.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "5-10",
+                                    "displayValue": "5-10",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/179/st-bonaventure-bonnies",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "St. Bonaventure",
+                            "id": "179"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2184",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "4-9",
+                                    "displayValue": "4-9",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "6.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 6.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "3-6",
+                                    "displayValue": "3-6",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2184/duquesne-dukes",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Duquesne",
+                            "id": "2184"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:45",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "7-12",
+                                    "displayValue": "7-12",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "7.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 7.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "4-9",
+                                    "displayValue": "4-9",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/45/george-washington-colonials",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "George Washington",
+                            "id": "45"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2603",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "5-9",
+                                    "displayValue": "5-9",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "8",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 8
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "3-9",
+                                    "displayValue": "3-9",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2603/saint-josephs-hawks",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Saint Joseph's",
+                            "id": "2603"
+                        },
+                        {
+                            "uid": "s:40~l:54~t:2244",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "Season",
+                                    "summary": "3-17",
+                                    "displayValue": "3-17",
+                                    "displayName": "Team Season Record",
+                                    "name": "Season",
+                                    "description": "Overall Record",
+                                    "id": "0",
+                                    "abbreviation": "Season",
+                                    "type": "total"
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "11.5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "vsconf_gamesbehind",
+                                    "value": 11.5
+                                },
+                                {
+                                    "shortDisplayName": "CONF",
+                                    "summary": "0-13",
+                                    "displayValue": "0-13",
+                                    "displayName": "CONF",
+                                    "name": "vs Conference",
+                                    "description": "Conference Record",
+                                    "id": "9",
+                                    "abbreviation": "VS CONF",
+                                    "type": "vsconf"
+                                }
+                            ],
+                            "link": "http://www.espn.com/womens-college-basketball/team/_/id/2244/george-mason-patriots",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "George Mason",
+                            "id": "2244"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "pickcenter": {},
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2020-02-06T00:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": true,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "ESPN+"
+                },
+                "type": {
+                    "id": "4",
+                    "shortName": "Web"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "groups": {
+            "midsizeName": "Atlantic 10",
+            "name": "Atlantic 10 Conference",
+            "id": "3",
+            "abbreviation": "atl10",
+            "shortName": "A 10"
+        },
+        "playByPlaySource": "none",
+        "uid": "s:40~l:54~e:401178203~c:401178203",
+        "competitors": [
+            {
+                "uid": "s:40~l:54~t:2244",
+                "homeAway": "home",
+                "score": "73",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "8-15",
+                        "displayValue": "8-15",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "4-7",
+                        "displayValue": "4-7",
+                        "type": "home"
+                    },
+                    {
+                        "summary": "2-8",
+                        "displayValue": "2-8",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "2244",
+                "team": {
+                    "uid": "s:40~l:54~t:2244",
+                    "alternateColor": "ecb010",
+                    "color": "016600",
+                    "displayName": "George Mason Patriots",
+                    "name": "Patriots",
+                    "nickname": "George Mason",
+                    "location": "George Mason",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/womens-college-basketball/team/_/id/2244/george-mason-patriots",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "2244",
+                    "abbreviation": "GMU",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2244.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "16"
+                    },
+                    {
+                        "displayValue": "26"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "17"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:40~l:54~t:113",
+                "homeAway": "away",
+                "score": "56",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "16-7",
+                        "displayValue": "16-7",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "7-4",
+                        "displayValue": "7-4",
+                        "type": "road"
+                    },
+                    {
+                        "summary": "6-4",
+                        "displayValue": "6-4",
+                        "type": "vsconf"
+                    }
+                ],
+                "possession": false,
+                "id": "113",
+                "team": {
+                    "uid": "s:40~l:54~t:113",
+                    "color": "880007",
+                    "displayName": "UMass Minutewomen",
+                    "name": "Minutewomen",
+                    "nickname": "UMass",
+                    "location": "UMass",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/womens-college-basketball/team/_/id/113/umass-minutewomen",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "113",
+                    "abbreviation": "MASS",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "17"
+                    },
+                    {
+                        "displayValue": "17"
+                    },
+                    {
+                        "displayValue": "11"
+                    },
+                    {
+                        "displayValue": "11"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": true,
+        "boxscoreAvailable": true,
+        "id": "401178203",
+        "shotChartAvailable": false,
+        "timeoutsAvailable": false,
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "possessionArrowAvailable": false,
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": 2020
+}
