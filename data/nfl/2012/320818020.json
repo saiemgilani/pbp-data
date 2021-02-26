@@ -1,0 +1,1593 @@
+{
+    "gameId": 320818020,
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Giants",
+                    "uid": "s:20~l:28~t:19",
+                    "alternateColor": "ffffff",
+                    "color": "052570",
+                    "displayName": "New York Giants",
+                    "name": "Giants",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                    "location": "New York",
+                    "id": "19",
+                    "abbreviation": "NYG",
+                    "slug": "new-york-giants"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Jets",
+                    "uid": "s:20~l:28~t:20",
+                    "alternateColor": "ffffff",
+                    "color": "174032",
+                    "displayName": "New York Jets",
+                    "name": "Jets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                    "location": "New York",
+                    "id": "20",
+                    "abbreviation": "NYJ",
+                    "slug": "new-york-jets"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Giants",
+                    "uid": "s:20~l:28~t:19",
+                    "alternateColor": "ffffff",
+                    "color": "052570",
+                    "displayName": "New York Giants",
+                    "name": "Giants",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                    "location": "New York",
+                    "id": "19",
+                    "abbreviation": "NYG",
+                    "slug": "new-york-giants"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Jets",
+                    "uid": "s:20~l:28~t:20",
+                    "alternateColor": "ffffff",
+                    "color": "174032",
+                    "displayName": "New York Jets",
+                    "name": "Jets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                    "location": "New York",
+                    "id": "20",
+                    "abbreviation": "NYJ",
+                    "slug": "new-york-jets"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:28~e:320818020",
+        "week": 3,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:28",
+            "name": "National Football League",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/powerrankings",
+                    "text": "Power Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/injuries",
+                    "text": "Injuries"
+                },
+                {
+                    "rel": [
+                        "freeagency",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://insider.espn.com/nfl/freeagency/",
+                    "text": "Freeagency"
+                }
+            ],
+            "id": "28",
+            "abbreviation": "NFL",
+            "slug": "nfl",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2012-08-18T23:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "NFL"
+                        },
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:28~e:320818020~c:320818020",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:28~t:20",
+                        "homeAway": "home",
+                        "score": "3",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-2",
+                                "displayValue": "0-2",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "home"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "20",
+                        "team": {
+                            "uid": "s:20~l:28~t:20",
+                            "alternateColor": "ffffff",
+                            "color": "174032",
+                            "displayName": "New York Jets",
+                            "name": "Jets",
+                            "nickname": "Jets",
+                            "location": "New York",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "20",
+                            "abbreviation": "NYJ",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyj.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyj.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:28~t:19",
+                        "homeAway": "away",
+                        "score": "26",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-1",
+                                "displayValue": "1-1",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-1",
+                                "displayValue": "1-1",
+                                "type": "road"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "19",
+                        "team": {
+                            "uid": "s:20~l:28~t:19",
+                            "alternateColor": "ffffff",
+                            "color": "052570",
+                            "displayName": "New York Giants",
+                            "name": "Giants",
+                            "nickname": "Giants",
+                            "location": "New York",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "19",
+                            "abbreviation": "NYG",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyg.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "10"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "10"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "320818020",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2012,
+            "type": 1
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/game/_/gameId/320818020",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/recap?gameId=320818020",
+                "text": "Recap",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/nfl/boxscore?gameId=320818020",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/matchup?gameId=320818020",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "320818020"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/nfl/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 NFC East Standings",
+                "href": "https://www.espn.com/nfl/standings/_/group/1",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:20~l:28~t:28",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "7",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 7
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "9",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 9
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".438",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.4375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "335",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 335
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "329",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 329
+                                },
+                                {
+                                    "summary": "7-9",
+                                    "displayValue": "7-9",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/wsh/washington",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Washington",
+                            "id": "28"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:19",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "6",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "10",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".375",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "280",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 280
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "357",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 357
+                                },
+                                {
+                                    "summary": "6-10",
+                                    "displayValue": "6-10",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "New York",
+                            "id": "19"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:6",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "6",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "10",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".375",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "395",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 395
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "473",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 473
+                                },
+                                {
+                                    "summary": "6-10",
+                                    "displayValue": "6-10",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/dal.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Dallas",
+                            "id": "6"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:21",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "4",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 4
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "11",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 11
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".281",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.28125
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "1",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 1
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "334",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 334
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "418",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 418
+                                },
+                                {
+                                    "summary": "4-11-1",
+                                    "displayValue": "4-11-1",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/phi.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Philadelphia",
+                            "id": "21"
+                        }
+                    ]
+                }
+            },
+            {
+                "header": "2020 AFC East Standings",
+                "href": "https://www.espn.com/nfl/standings/_/group/4",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:20~l:28~t:2",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "13",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 13
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "3",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 3
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".813",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.8125
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "501",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 501
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "375",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 375
+                                },
+                                {
+                                    "summary": "13-3",
+                                    "displayValue": "13-3",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/buf.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Buffalo",
+                            "id": "2"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:15",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "10",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "6",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".625",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.625
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "404",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 404
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "338",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 338
+                                },
+                                {
+                                    "summary": "10-6",
+                                    "displayValue": "10-6",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/mia.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Miami",
+                            "id": "15"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:17",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "7",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 7
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "9",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 9
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".438",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.4375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "326",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 326
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "353",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 353
+                                },
+                                {
+                                    "summary": "7-9",
+                                    "displayValue": "7-9",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ne.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "New England",
+                            "id": "17"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:20",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "2",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 2
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "14",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 14
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".125",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.125
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "243",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 243
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "457",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 457
+                                },
+                                {
+                                    "summary": "2-14",
+                                    "displayValue": "2-14",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyj.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "New York",
+                            "id": "20"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2012-08-18T23:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "NFL"
+                },
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:28~e:320818020~c:320818020",
+        "competitors": [
+            {
+                "uid": "s:20~l:28~t:20",
+                "homeAway": "home",
+                "score": "3",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-2",
+                        "displayValue": "0-2",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "home"
+                    }
+                ],
+                "possession": false,
+                "id": "20",
+                "team": {
+                    "uid": "s:20~l:28~t:20",
+                    "alternateColor": "ffffff",
+                    "color": "174032",
+                    "displayName": "New York Jets",
+                    "name": "Jets",
+                    "nickname": "Jets",
+                    "location": "New York",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "20",
+                    "abbreviation": "NYJ",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyj.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyj.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:28~t:19",
+                "homeAway": "away",
+                "score": "26",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-1",
+                        "displayValue": "1-1",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-1",
+                        "displayValue": "1-1",
+                        "type": "road"
+                    }
+                ],
+                "possession": false,
+                "id": "19",
+                "team": {
+                    "uid": "s:20~l:28~t:19",
+                    "alternateColor": "ffffff",
+                    "color": "052570",
+                    "displayName": "New York Giants",
+                    "name": "Giants",
+                    "nickname": "Giants",
+                    "location": "New York",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "19",
+                    "abbreviation": "NYG",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nyg.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "10"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "10"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "320818020",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2012,
+        "type": 1
+    }
+}
