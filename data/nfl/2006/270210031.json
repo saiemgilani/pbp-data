@@ -1,0 +1,641 @@
+{
+    "gameId": 270210031,
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "NFC",
+                    "uid": "s:20~l:28~t:32",
+                    "displayName": "Nfc",
+                    "name": "Nfc",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png",
+                    "location": "Nfc",
+                    "id": "32",
+                    "abbreviation": "NFC",
+                    "slug": "nfc"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "AFC",
+                    "uid": "s:20~l:28~t:31",
+                    "displayName": "Afc",
+                    "name": "Afc",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/afc.png",
+                    "location": "Afc",
+                    "id": "31",
+                    "abbreviation": "AFC",
+                    "slug": "afc"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "NFC",
+                    "uid": "s:20~l:28~t:32",
+                    "displayName": "Nfc",
+                    "name": "Nfc",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png",
+                    "location": "Nfc",
+                    "id": "32",
+                    "abbreviation": "NFC",
+                    "slug": "nfc"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "AFC",
+                    "uid": "s:20~l:28~t:31",
+                    "displayName": "Afc",
+                    "name": "Afc",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/afc.png",
+                    "location": "Afc",
+                    "id": "31",
+                    "abbreviation": "AFC",
+                    "slug": "afc"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:28~e:270210031",
+        "week": 5,
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:28",
+            "name": "National Football League",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/powerrankings",
+                    "text": "Power Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/injuries",
+                    "text": "Injuries"
+                },
+                {
+                    "rel": [
+                        "freeagency",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://insider.espn.com/nfl/freeagency/",
+                    "text": "Freeagency"
+                }
+            ],
+            "id": "28",
+            "abbreviation": "NFL",
+            "slug": "nfl",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2007-02-10T23:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "CBS"
+                        },
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "playByPlaySource": "full",
+                "uid": "s:20~l:28~e:270210031~c:270210031",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:28~t:31",
+                        "homeAway": "home",
+                        "score": "31",
+                        "winner": true,
+                        "record": [],
+                        "possession": false,
+                        "id": "31",
+                        "team": {
+                            "uid": "s:20~l:28~t:31",
+                            "displayName": "Afc",
+                            "name": "Afc",
+                            "nickname": "AFC",
+                            "location": "Afc",
+                            "links": [],
+                            "id": "31",
+                            "abbreviation": "AFC",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/afc.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/afc.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/afc.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "10"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:28~t:32",
+                        "homeAway": "away",
+                        "score": "28",
+                        "winner": false,
+                        "record": [],
+                        "possession": false,
+                        "id": "32",
+                        "team": {
+                            "uid": "s:20~l:28~t:32",
+                            "displayName": "Nfc",
+                            "name": "Nfc",
+                            "nickname": "NFC",
+                            "location": "Nfc",
+                            "links": [],
+                            "id": "32",
+                            "abbreviation": "NFC",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nfc.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nfc.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "14"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": true,
+                "id": "270210031",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2006,
+            "type": 3
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/game/_/gameId/270210031",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/nfl/boxscore?gameId=270210031",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Play-by-Play",
+                "rel": [
+                    "pbp",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/nfl/playbyplay?gameId=270210031",
+                "text": "Play-by-Play",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/matchup?gameId=270210031",
+                "text": "Team Stats",
+                "isPremium": false
+            }
+        ],
+        "id": "270210031",
+        "gameNote": "AT HAWAII"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/nfl/standings"
+        },
+        "groups": []
+    },
+    "timeouts": {},
+    "scoringPlays": [],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2007-02-10T23:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "CBS"
+                },
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "playByPlaySource": "full",
+        "uid": "s:20~l:28~e:270210031~c:270210031",
+        "competitors": [
+            {
+                "uid": "s:20~l:28~t:31",
+                "homeAway": "home",
+                "score": "31",
+                "winner": true,
+                "record": [],
+                "possession": false,
+                "id": "31",
+                "team": {
+                    "uid": "s:20~l:28~t:31",
+                    "displayName": "Afc",
+                    "name": "Afc",
+                    "nickname": "AFC",
+                    "location": "Afc",
+                    "links": [],
+                    "id": "31",
+                    "abbreviation": "AFC",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/afc.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/afc.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/afc.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "10"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:28~t:32",
+                "homeAway": "away",
+                "score": "28",
+                "winner": false,
+                "record": [],
+                "possession": false,
+                "id": "32",
+                "team": {
+                    "uid": "s:20~l:28~t:32",
+                    "displayName": "Nfc",
+                    "name": "Nfc",
+                    "nickname": "NFC",
+                    "location": "Nfc",
+                    "links": [],
+                    "id": "32",
+                    "abbreviation": "NFC",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/nfc.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nfc.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "14"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": true,
+        "id": "270210031",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2006,
+        "type": 3
+    }
+}

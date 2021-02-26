@@ -1,0 +1,1416 @@
+{
+    "gameId": 260806021,
+    "drives": {},
+    "plays": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Raiders",
+                    "uid": "s:20~l:28~t:13",
+                    "alternateColor": "a5acaf",
+                    "color": "000000",
+                    "displayName": "Oakland Raiders",
+                    "name": "Raiders",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                    "location": "Oakland",
+                    "id": "13",
+                    "abbreviation": "OAK",
+                    "slug": "oakland-raiders"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Eagles",
+                    "uid": "s:20~l:28~t:21",
+                    "alternateColor": "a5acaf",
+                    "color": "06424D",
+                    "displayName": "Philadelphia Eagles",
+                    "name": "Eagles",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                    "location": "Philadelphia",
+                    "id": "21",
+                    "abbreviation": "PHI",
+                    "slug": "philadelphia-eagles"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Raiders",
+                    "uid": "s:20~l:28~t:13",
+                    "alternateColor": "a5acaf",
+                    "color": "000000",
+                    "displayName": "Oakland Raiders",
+                    "name": "Raiders",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                    "location": "Oakland",
+                    "id": "13",
+                    "abbreviation": "OAK",
+                    "slug": "oakland-raiders"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Eagles",
+                    "uid": "s:20~l:28~t:21",
+                    "alternateColor": "a5acaf",
+                    "color": "06424D",
+                    "displayName": "Philadelphia Eagles",
+                    "name": "Eagles",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                    "location": "Philadelphia",
+                    "id": "21",
+                    "abbreviation": "PHI",
+                    "slug": "philadelphia-eagles"
+                },
+                "statistics": []
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:20~l:28~e:260806021",
+        "timeValid": true,
+        "league": {
+            "uid": "s:20~l:28",
+            "name": "National Football League",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/powerrankings",
+                    "text": "Power Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/stats",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nfl/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nfl/injuries",
+                    "text": "Injuries"
+                },
+                {
+                    "rel": [
+                        "freeagency",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://insider.espn.com/nfl/freeagency/",
+                    "text": "Freeagency"
+                }
+            ],
+            "id": "28",
+            "abbreviation": "NFL",
+            "slug": "nfl",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2006-08-07T00:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [
+                    {
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "NBC"
+                        },
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "playByPlaySource": "none",
+                "uid": "s:20~l:28~e:260806021~c:260806021",
+                "competitors": [
+                    {
+                        "uid": "s:20~l:28~t:21",
+                        "homeAway": "home",
+                        "score": "10",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "0-1",
+                                "displayValue": "0-1",
+                                "type": "home"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "21",
+                        "team": {
+                            "uid": "s:20~l:28~t:21",
+                            "alternateColor": "a5acaf",
+                            "color": "06424D",
+                            "displayName": "Philadelphia Eagles",
+                            "name": "Eagles",
+                            "nickname": "Philly",
+                            "location": "Philadelphia",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "21",
+                            "abbreviation": "PHI",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/phi.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/phi.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:20~l:28~t:13",
+                        "homeAway": "away",
+                        "score": "16",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "1-0",
+                                "displayValue": "1-0",
+                                "type": "road"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "13",
+                        "team": {
+                            "uid": "s:20~l:28~t:13",
+                            "alternateColor": "a5acaf",
+                            "color": "000000",
+                            "displayName": "Oakland Raiders",
+                            "name": "Raiders",
+                            "nickname": "Las Vegas",
+                            "location": "Oakland",
+                            "links": [],
+                            "id": "13",
+                            "abbreviation": "OAK",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/oak.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/oak.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/oak.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "7"
+                            },
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "6"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "boxscoreAvailable": false,
+                "id": "260806021",
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "none",
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2006,
+            "type": 1
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/game/_/gameId/260806021",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nfl/recap?gameId=260806021",
+                "text": "Recap",
+                "isPremium": false
+            }
+        ],
+        "id": "260806021",
+        "gameNote": "HALL OF FAME GAME"
+    },
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/nfl/standings"
+        },
+        "groups": [
+            {
+                "header": "2020 NFC East Standings",
+                "href": "https://www.espn.com/nfl/standings/_/group/1",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:20~l:28~t:28",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "7",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 7
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "9",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 9
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".438",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.4375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "335",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 335
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "329",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 329
+                                },
+                                {
+                                    "summary": "7-9",
+                                    "displayValue": "7-9",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/wsh/washington",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Washington",
+                            "id": "28"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:19",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "6",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "10",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".375",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "280",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 280
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "357",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 357
+                                },
+                                {
+                                    "summary": "6-10",
+                                    "displayValue": "6-10",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "New York",
+                            "id": "19"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:6",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "6",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "10",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".375",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.375
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "0",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "395",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 395
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "473",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 473
+                                },
+                                {
+                                    "summary": "6-10",
+                                    "displayValue": "6-10",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/dal.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Dallas",
+                            "id": "6"
+                        },
+                        {
+                            "uid": "s:20~l:28~t:21",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "4",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 4
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "11",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 11
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".281",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.28125
+                                },
+                                {
+                                    "shortDisplayName": "T",
+                                    "displayValue": "1",
+                                    "displayName": "Ties",
+                                    "name": "ties",
+                                    "description": "Ties",
+                                    "abbreviation": "T",
+                                    "type": "ties",
+                                    "value": 1
+                                },
+                                {
+                                    "shortDisplayName": "PF",
+                                    "displayValue": "334",
+                                    "displayName": "Points For",
+                                    "name": "pointsFor",
+                                    "description": "Total Points For",
+                                    "abbreviation": "PF",
+                                    "type": "pointsfor",
+                                    "value": 334
+                                },
+                                {
+                                    "shortDisplayName": "PA",
+                                    "displayValue": "418",
+                                    "displayName": "Points Against",
+                                    "name": "pointsAgainst",
+                                    "description": "Total Points Against",
+                                    "abbreviation": "PA",
+                                    "type": "pointsagainst",
+                                    "value": 418
+                                },
+                                {
+                                    "summary": "4-11-1",
+                                    "displayValue": "4-11-1",
+                                    "name": "All Splits",
+                                    "id": "0",
+                                    "abbreviation": "Any",
+                                    "type": "total"
+                                }
+                            ],
+                            "link": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "scoreboard",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/phi.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Philadelphia",
+                            "id": "21"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "timeouts": {},
+    "scoringPlays": [
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 6,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2608060210374",
+            "clock": {
+                "displayValue": "12:41",
+                "value": 761
+            },
+            "team": {
+                "uid": "s:20~l:28~t:21",
+                "displayName": "Philadelphia Eagles",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "21",
+                "abbreviation": "PHI"
+            },
+            "text": "TD",
+            "type": {
+                "id": "5",
+                "text": "Rush",
+                "abbreviation": "RUSH"
+            }
+        },
+        {
+            "period": {
+                "number": 1
+            },
+            "homeScore": 7,
+            "awayScore": 0,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2608060210392",
+            "clock": {
+                "displayValue": "7:50",
+                "value": 470
+            },
+            "team": {
+                "uid": "s:20~l:28~t:21",
+                "displayName": "Philadelphia Eagles",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "21",
+                "abbreviation": "PHI"
+            },
+            "text": "ExtraPoint",
+            "type": {
+                "id": "61",
+                "text": "Extra Point Good",
+                "abbreviation": "XP"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 7,
+            "awayScore": 6,
+            "scoringType": {
+                "displayName": "Touchdown",
+                "name": "touchdown",
+                "abbreviation": "TD"
+            },
+            "id": "2608060210886",
+            "clock": {
+                "displayValue": "15:00",
+                "value": 900
+            },
+            "team": {
+                "uid": "s:20~l:28~t:13",
+                "displayName": "Oakland Raiders",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                "id": "13",
+                "abbreviation": "OAK"
+            },
+            "text": "TD",
+            "type": {
+                "id": "51",
+                "text": "Pass",
+                "abbreviation": "PASS"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 7,
+            "awayScore": 7,
+            "scoringType": {
+                "displayName": "Extra Point",
+                "name": "extra-point",
+                "abbreviation": "XP"
+            },
+            "id": "2608060210906",
+            "clock": {
+                "displayValue": "14:12",
+                "value": 852
+            },
+            "team": {
+                "uid": "s:20~l:28~t:13",
+                "displayName": "Oakland Raiders",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                "id": "13",
+                "abbreviation": "OAK"
+            },
+            "text": "ExtraPoint",
+            "type": {
+                "id": "61",
+                "text": "Extra Point Good",
+                "abbreviation": "XP"
+            }
+        },
+        {
+            "period": {
+                "number": 2
+            },
+            "homeScore": 10,
+            "awayScore": 7,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2608060211182",
+            "clock": {
+                "displayValue": "14:12",
+                "value": 852
+            },
+            "team": {
+                "uid": "s:20~l:28~t:21",
+                "displayName": "Philadelphia Eagles",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                "links": [
+                    {
+                        "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                        "text": "Clubhouse"
+                    },
+                    {
+                        "href": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+                        "text": "Schedule"
+                    }
+                ],
+                "id": "21",
+                "abbreviation": "PHI"
+            },
+            "text": "Field Goal",
+            "type": {
+                "id": "59",
+                "text": "Field Goal Good",
+                "abbreviation": "FG"
+            }
+        },
+        {
+            "period": {
+                "number": 3
+            },
+            "homeScore": 10,
+            "awayScore": 10,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2608060212633",
+            "clock": {
+                "displayValue": "6:20",
+                "value": 380
+            },
+            "team": {
+                "uid": "s:20~l:28~t:13",
+                "displayName": "Oakland Raiders",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                "id": "13",
+                "abbreviation": "OAK"
+            },
+            "text": "Field Goal",
+            "type": {
+                "id": "59",
+                "text": "Field Goal Good",
+                "abbreviation": "FG"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 10,
+            "awayScore": 13,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2608060213236",
+            "clock": {
+                "displayValue": "11:53",
+                "value": 713
+            },
+            "team": {
+                "uid": "s:20~l:28~t:13",
+                "displayName": "Oakland Raiders",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                "id": "13",
+                "abbreviation": "OAK"
+            },
+            "text": "Field Goal",
+            "type": {
+                "id": "59",
+                "text": "Field Goal Good",
+                "abbreviation": "FG"
+            }
+        },
+        {
+            "period": {
+                "number": 4
+            },
+            "homeScore": 10,
+            "awayScore": 16,
+            "scoringType": {
+                "displayName": "Field Goal",
+                "name": "field-goal",
+                "abbreviation": "FG"
+            },
+            "id": "2608060213624",
+            "clock": {
+                "displayValue": "9:41",
+                "value": 581
+            },
+            "team": {
+                "uid": "s:20~l:28~t:13",
+                "displayName": "Oakland Raiders",
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                "id": "13",
+                "abbreviation": "OAK"
+            },
+            "text": "Field Goal",
+            "type": {
+                "id": "59",
+                "text": "Field Goal Good",
+                "abbreviation": "FG"
+            }
+        }
+    ],
+    "winprobability": [],
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2006-08-07T00:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [
+            {
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "NBC"
+                },
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "playByPlaySource": "none",
+        "uid": "s:20~l:28~e:260806021~c:260806021",
+        "competitors": [
+            {
+                "uid": "s:20~l:28~t:21",
+                "homeAway": "home",
+                "score": "10",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "0-1",
+                        "displayValue": "0-1",
+                        "type": "home"
+                    }
+                ],
+                "possession": false,
+                "id": "21",
+                "team": {
+                    "uid": "s:20~l:28~t:21",
+                    "alternateColor": "a5acaf",
+                    "color": "06424D",
+                    "displayName": "Philadelphia Eagles",
+                    "name": "Eagles",
+                    "nickname": "Philly",
+                    "location": "Philadelphia",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "21",
+                    "abbreviation": "PHI",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/phi.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/phi.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:20~l:28~t:13",
+                "homeAway": "away",
+                "score": "16",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "1-0",
+                        "displayValue": "1-0",
+                        "type": "road"
+                    }
+                ],
+                "possession": false,
+                "id": "13",
+                "team": {
+                    "uid": "s:20~l:28~t:13",
+                    "alternateColor": "a5acaf",
+                    "color": "000000",
+                    "displayName": "Oakland Raiders",
+                    "name": "Raiders",
+                    "nickname": "Las Vegas",
+                    "location": "Oakland",
+                    "links": [],
+                    "id": "13",
+                    "abbreviation": "OAK",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/oak.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/oak.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/oak.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "scoreboard",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/oak.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "7"
+                    },
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "6"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "boxscoreAvailable": false,
+        "id": "260806021",
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "none",
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": {
+        "year": 2006,
+        "type": 1
+    }
+}
