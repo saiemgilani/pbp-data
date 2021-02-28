@@ -1,0 +1,2334 @@
+{
+    "gameId": 401018818,
+    "plays": [],
+    "winprobability": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "shortDisplayName": "Sun",
+                    "uid": "s:40~l:59~t:18",
+                    "alternateColor": "002d62",
+                    "color": "de6b36",
+                    "displayName": "Connecticut Sun",
+                    "name": "Sun",
+                    "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png",
+                    "location": "Connecticut",
+                    "id": "18",
+                    "abbreviation": "CONN",
+                    "slug": "connecticut-sun"
+                },
+                "statistics": [
+                    {
+                        "displayValue": "30-82",
+                        "name": "fieldGoalsMade-fieldGoalsAttempted",
+                        "label": "FG"
+                    },
+                    {
+                        "displayValue": "36.6",
+                        "name": "fieldGoalPct",
+                        "label": "Field Goal %",
+                        "abbreviation": "FG%"
+                    },
+                    {
+                        "displayValue": "7-32",
+                        "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+                        "label": "3PT"
+                    },
+                    {
+                        "displayValue": "21.9",
+                        "name": "threePointFieldGoalPct",
+                        "label": "Three Point %",
+                        "abbreviation": "3P%"
+                    },
+                    {
+                        "displayValue": "10-14",
+                        "name": "freeThrowsMade-freeThrowsAttempted",
+                        "label": "FT"
+                    },
+                    {
+                        "displayValue": "71.4",
+                        "name": "freeThrowPct",
+                        "label": "Free Throw %",
+                        "abbreviation": "FT%"
+                    },
+                    {
+                        "displayValue": "47",
+                        "name": "totalRebounds",
+                        "label": "Rebounds",
+                        "abbreviation": "REB"
+                    },
+                    {
+                        "displayValue": "13",
+                        "name": "offensiveRebounds",
+                        "label": "Offensive Rebounds",
+                        "abbreviation": "OR"
+                    },
+                    {
+                        "displayValue": "34",
+                        "name": "defensiveRebounds",
+                        "label": "Defensive Rebounds",
+                        "abbreviation": "DR"
+                    },
+                    {
+                        "displayValue": "21",
+                        "name": "assists",
+                        "label": "Assists",
+                        "abbreviation": "AST"
+                    },
+                    {
+                        "displayValue": "6",
+                        "name": "steals",
+                        "label": "Steals",
+                        "abbreviation": "STL"
+                    },
+                    {
+                        "displayValue": "6",
+                        "name": "blocks",
+                        "label": "Blocks",
+                        "abbreviation": "BLK"
+                    },
+                    {
+                        "displayValue": "16",
+                        "name": "turnovers",
+                        "label": "Turnovers",
+                        "abbreviation": "TO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamTurnovers",
+                        "label": "Team Turnovers",
+                        "abbreviation": "TTO"
+                    },
+                    {
+                        "displayValue": "16",
+                        "name": "totalTurnovers",
+                        "label": "Total Turnovers",
+                        "abbreviation": "ToTO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "technicalFouls",
+                        "label": "Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "totalTechnicalFouls",
+                        "label": "Total Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "flagrantFouls",
+                        "label": "Flagrant Fouls",
+                        "abbreviation": "FLAG"
+                    },
+                    {
+                        "displayValue": "26",
+                        "name": "fouls",
+                        "label": "Fouls",
+                        "abbreviation": "PF"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "largestLead",
+                        "label": "Largest Lead",
+                        "abbreviation": "LL"
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Dream",
+                    "uid": "s:40~l:59~t:20",
+                    "alternateColor": "f1f2f3",
+                    "color": "5190cd",
+                    "displayName": "Atlanta Dream",
+                    "name": "Dream",
+                    "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+                    "location": "Atlanta",
+                    "id": "20",
+                    "abbreviation": "ATL",
+                    "slug": "atlanta-dream"
+                },
+                "statistics": [
+                    {
+                        "displayValue": "28-64",
+                        "name": "fieldGoalsMade-fieldGoalsAttempted",
+                        "label": "FG"
+                    },
+                    {
+                        "displayValue": "43.8",
+                        "name": "fieldGoalPct",
+                        "label": "Field Goal %",
+                        "abbreviation": "FG%"
+                    },
+                    {
+                        "displayValue": "6-12",
+                        "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+                        "label": "3PT"
+                    },
+                    {
+                        "displayValue": "50.0",
+                        "name": "threePointFieldGoalPct",
+                        "label": "Three Point %",
+                        "abbreviation": "3P%"
+                    },
+                    {
+                        "displayValue": "20-27",
+                        "name": "freeThrowsMade-freeThrowsAttempted",
+                        "label": "FT"
+                    },
+                    {
+                        "displayValue": "74.1",
+                        "name": "freeThrowPct",
+                        "label": "Free Throw %",
+                        "abbreviation": "FT%"
+                    },
+                    {
+                        "displayValue": "36",
+                        "name": "totalRebounds",
+                        "label": "Rebounds",
+                        "abbreviation": "REB"
+                    },
+                    {
+                        "displayValue": "3",
+                        "name": "offensiveRebounds",
+                        "label": "Offensive Rebounds",
+                        "abbreviation": "OR"
+                    },
+                    {
+                        "displayValue": "33",
+                        "name": "defensiveRebounds",
+                        "label": "Defensive Rebounds",
+                        "abbreviation": "DR"
+                    },
+                    {
+                        "displayValue": "18",
+                        "name": "assists",
+                        "label": "Assists",
+                        "abbreviation": "AST"
+                    },
+                    {
+                        "displayValue": "9",
+                        "name": "steals",
+                        "label": "Steals",
+                        "abbreviation": "STL"
+                    },
+                    {
+                        "displayValue": "2",
+                        "name": "blocks",
+                        "label": "Blocks",
+                        "abbreviation": "BLK"
+                    },
+                    {
+                        "displayValue": "13",
+                        "name": "turnovers",
+                        "label": "Turnovers",
+                        "abbreviation": "TO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "teamTurnovers",
+                        "label": "Team Turnovers",
+                        "abbreviation": "TTO"
+                    },
+                    {
+                        "displayValue": "13",
+                        "name": "totalTurnovers",
+                        "label": "Total Turnovers",
+                        "abbreviation": "ToTO"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "technicalFouls",
+                        "label": "Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "totalTechnicalFouls",
+                        "label": "Total Technical Fouls",
+                        "abbreviation": "TECH"
+                    },
+                    {
+                        "displayValue": "0",
+                        "name": "flagrantFouls",
+                        "label": "Flagrant Fouls",
+                        "abbreviation": "FLAG"
+                    },
+                    {
+                        "displayValue": "17",
+                        "name": "fouls",
+                        "label": "Fouls",
+                        "abbreviation": "PF"
+                    },
+                    {
+                        "displayValue": "8",
+                        "name": "largestLead",
+                        "label": "Largest Lead",
+                        "abbreviation": "LL"
+                    }
+                ]
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "shortDisplayName": "Sun",
+                    "uid": "s:40~l:59~t:18",
+                    "alternateColor": "002d62",
+                    "color": "de6b36",
+                    "displayName": "Connecticut Sun",
+                    "name": "Sun",
+                    "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png",
+                    "location": "Connecticut",
+                    "id": "18",
+                    "abbreviation": "CONN",
+                    "slug": "connecticut-sun"
+                },
+                "statistics": [
+                    {
+                        "names": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "+/-",
+                            "PTS"
+                        ],
+                        "athletes": [
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:1110",
+                                    "displayName": "Shekinna Stricklen",
+                                    "jersey": "40",
+                                    "guid": "11abe51207cb30176d3c9d3b0dae41e5",
+                                    "links": [],
+                                    "id": "1110",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "S. Stricklen"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "22",
+                                    "2-8",
+                                    "2-8",
+                                    "0-0",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "-5",
+                                    "6"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2529140",
+                                    "displayName": "Alyssa Thomas",
+                                    "jersey": "25",
+                                    "guid": "908608e931d462f2dfe29fee9024e7e2",
+                                    "links": [],
+                                    "id": "2529140",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "A. Thomas"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "36",
+                                    "8-15",
+                                    "0-0",
+                                    "3-5",
+                                    "6",
+                                    "11",
+                                    "17",
+                                    "7",
+                                    "0",
+                                    "0",
+                                    "6",
+                                    "4",
+                                    "+3",
+                                    "19"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2529950",
+                                    "displayName": "Chiney Ogwumike",
+                                    "jersey": "13",
+                                    "guid": "dbedf9b475c72a183f0a0035a7d83bfd",
+                                    "links": [],
+                                    "id": "2529950",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "C. Ogwumike"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "30",
+                                    "5-8",
+                                    "0-0",
+                                    "2-3",
+                                    "1",
+                                    "8",
+                                    "9",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "4",
+                                    "-4",
+                                    "12"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:1008",
+                                    "displayName": "Jasmine Thomas",
+                                    "jersey": "5",
+                                    "guid": "67e18ab6bbf481a14c899a2edb6ef783",
+                                    "links": [],
+                                    "id": "1008",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "J. Thomas"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "23",
+                                    "2-12",
+                                    "1-6",
+                                    "0-0",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "3",
+                                    "1",
+                                    "1",
+                                    "2",
+                                    "6",
+                                    "-12",
+                                    "5"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2987891",
+                                    "displayName": "Courtney Williams",
+                                    "jersey": "10",
+                                    "guid": "af31f6fdc3364832e8bc60604765de83",
+                                    "links": [],
+                                    "id": "2987891",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "C. Williams"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "31",
+                                    "5-12",
+                                    "1-2",
+                                    "0-0",
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "3",
+                                    "0",
+                                    "1",
+                                    "3",
+                                    "1",
+                                    "-11",
+                                    "11"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2998929",
+                                    "displayName": "Morgan Tuck",
+                                    "jersey": "3",
+                                    "guid": "2d61e8fa194f54fa9396c94e699b2eb3",
+                                    "links": [],
+                                    "id": "2998929",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "M. Tuck"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "4",
+                                    "1-3",
+                                    "0-1",
+                                    "0-0",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "2",
+                                    "-3",
+                                    "2"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2999101",
+                                    "displayName": "Jonquel Jones",
+                                    "jersey": "35",
+                                    "guid": "d5154a934a4671af8b55f69328b84b54",
+                                    "links": [],
+                                    "id": "2999101",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "J. Jones"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "24",
+                                    "1-5",
+                                    "0-3",
+                                    "3-4",
+                                    "2",
+                                    "6",
+                                    "8",
+                                    "2",
+                                    "2",
+                                    "3",
+                                    "3",
+                                    "4",
+                                    "+0",
+                                    "5"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2490773",
+                                    "displayName": "Alex Bentley",
+                                    "jersey": "20",
+                                    "guid": "78681a27e4588ed630ec83da003e8f32",
+                                    "links": [],
+                                    "id": "2490773",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "A. Bentley"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "22",
+                                    "5-15",
+                                    "2-10",
+                                    "0-0",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "5",
+                                    "1",
+                                    "1",
+                                    "1",
+                                    "1",
+                                    "+4",
+                                    "12"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2566186",
+                                    "displayName": "Rachel Banham",
+                                    "jersey": "15",
+                                    "guid": "986000fe5c5475332b58daaf164ffc36",
+                                    "links": [],
+                                    "id": "2566186",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "R. Banham"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "8",
+                                    "1-4",
+                                    "1-2",
+                                    "2-2",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "0",
+                                    "0",
+                                    "3",
+                                    "+3",
+                                    "5"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2593770",
+                                    "displayName": "Betnijah Laney",
+                                    "jersey": "44",
+                                    "guid": "08d9f7a2c92a1db66556b5598083d713",
+                                    "links": [],
+                                    "id": "2593770",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "B. Laney"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:3058895",
+                                    "displayName": "Brionna Jones",
+                                    "jersey": "42",
+                                    "guid": "1d62bb30f780da287d863cc9b29d7ae7",
+                                    "links": [],
+                                    "id": "3058895",
+                                    "position": {
+                                        "displayName": "Center",
+                                        "name": "Center",
+                                        "abbreviation": "C"
+                                    },
+                                    "shortName": "B. Jones"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2999140",
+                                    "displayName": "Bria Holmes",
+                                    "jersey": "32",
+                                    "guid": "6a466aa788b40c3166a7fd2e82a7bfe3",
+                                    "links": [],
+                                    "id": "2999140",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "B. Holmes"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:3058892",
+                                    "displayName": "Lexie Brown",
+                                    "jersey": "4",
+                                    "guid": "c4d8f47be9d516b6d1d09d9f39fdb679",
+                                    "links": [],
+                                    "id": "3058892",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "L. Brown"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            }
+                        ],
+                        "totals": [
+                            "",
+                            "30-82",
+                            "7-32",
+                            "10-14",
+                            "13",
+                            "34",
+                            "47",
+                            "21",
+                            "6",
+                            "6",
+                            "16",
+                            "26",
+                            "",
+                            "77"
+                        ],
+                        "descriptions": [
+                            "Minutes",
+                            "Field Goals Made/Attempted",
+                            "3-Point Field Goals Made/Attempted",
+                            "Free Throws Made/Attempted",
+                            "Offensive Rebounds",
+                            "Defensive Rebounds",
+                            "Rebounds",
+                            "Assists",
+                            "Steals",
+                            "Blocks",
+                            "Turnovers",
+                            "Personal Fouls",
+                            "Teams net points while player is on the court.",
+                            "Points"
+                        ],
+                        "labels": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "+/-",
+                            "PTS"
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "shortDisplayName": "Dream",
+                    "uid": "s:40~l:59~t:20",
+                    "alternateColor": "f1f2f3",
+                    "color": "5190cd",
+                    "displayName": "Atlanta Dream",
+                    "name": "Dream",
+                    "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+                    "location": "Atlanta",
+                    "id": "20",
+                    "abbreviation": "ATL",
+                    "slug": "atlanta-dream"
+                },
+                "statistics": [
+                    {
+                        "names": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "+/-",
+                            "PTS"
+                        ],
+                        "athletes": [
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:872",
+                                    "displayName": "Angel McCoughtry",
+                                    "jersey": "35",
+                                    "guid": "6d80f2876d06b6c4fda2ed198b94434c",
+                                    "links": [],
+                                    "id": "872",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "A. McCoughtry"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "23",
+                                    "4-11",
+                                    "0-0",
+                                    "3-4",
+                                    "0",
+                                    "3",
+                                    "3",
+                                    "4",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "4",
+                                    "-7",
+                                    "11"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:1002",
+                                    "displayName": "Jessica Breland",
+                                    "guid": "f088d34a8add0d4eb4b9813a1a41af37",
+                                    "links": [],
+                                    "id": "1002",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "J. Breland"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "32",
+                                    "3-10",
+                                    "0-0",
+                                    "2-2",
+                                    "1",
+                                    "8",
+                                    "9",
+                                    "2",
+                                    "2",
+                                    "0",
+                                    "2",
+                                    "1",
+                                    "-6",
+                                    "8"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2566081",
+                                    "displayName": "Elizabeth Williams",
+                                    "jersey": "1",
+                                    "guid": "74e3b92809c7ec95f877f97869a9d64b",
+                                    "links": [],
+                                    "id": "2566081",
+                                    "position": {
+                                        "displayName": "Center",
+                                        "name": "Center",
+                                        "abbreviation": "C"
+                                    },
+                                    "shortName": "E. Williams"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "27",
+                                    "2-8",
+                                    "0-0",
+                                    "0-2",
+                                    "1",
+                                    "1",
+                                    "2",
+                                    "0",
+                                    "0",
+                                    "1",
+                                    "2",
+                                    "2",
+                                    "+8",
+                                    "4"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:865",
+                                    "displayName": "Renee Montgomery",
+                                    "jersey": "21",
+                                    "guid": "f122be3557ced75550d02221af209121",
+                                    "links": [],
+                                    "id": "865",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "R. Montgomery"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "25",
+                                    "3-6",
+                                    "3-5",
+                                    "3-3",
+                                    "0",
+                                    "4",
+                                    "4",
+                                    "2",
+                                    "2",
+                                    "0",
+                                    "3",
+                                    "0",
+                                    "+10",
+                                    "12"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": true,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:1054",
+                                    "displayName": "Tiffany Hayes",
+                                    "jersey": "15",
+                                    "guid": "026e19c6c57558c93a665d0964edef64",
+                                    "links": [],
+                                    "id": "1054",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "T. Hayes"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "35",
+                                    "7-13",
+                                    "2-5",
+                                    "6-7",
+                                    "0",
+                                    "7",
+                                    "7",
+                                    "4",
+                                    "3",
+                                    "0",
+                                    "3",
+                                    "2",
+                                    "+10",
+                                    "22"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2955898",
+                                    "displayName": "Damiris Dantas",
+                                    "jersey": "12",
+                                    "guid": "71c936c4e7174b8cb30ec5bd729a89eb",
+                                    "links": [],
+                                    "id": "2955898",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "D. Dantas"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "21",
+                                    "6-8",
+                                    "1-2",
+                                    "2-3",
+                                    "1",
+                                    "4",
+                                    "5",
+                                    "2",
+                                    "0",
+                                    "0",
+                                    "0",
+                                    "3",
+                                    "+10",
+                                    "15"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2490794",
+                                    "displayName": "Layshia Clarendon",
+                                    "jersey": "7",
+                                    "guid": "cef7700ef334f33f5b09947fef78d2eb",
+                                    "links": [],
+                                    "id": "2490794",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "L. Clarendon"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "15",
+                                    "1-3",
+                                    "0-0",
+                                    "2-2",
+                                    "0",
+                                    "4",
+                                    "4",
+                                    "2",
+                                    "1",
+                                    "0",
+                                    "1",
+                                    "4",
+                                    "-7",
+                                    "4"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2988756",
+                                    "displayName": "Brittney Sykes",
+                                    "jersey": "15",
+                                    "guid": "b8564ef47521235a57d10262eb11d1fb",
+                                    "links": [],
+                                    "id": "2988756",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "B. Sykes"
+                                },
+                                "ejected": false,
+                                "stats": [
+                                    "21",
+                                    "2-5",
+                                    "0-0",
+                                    "2-4",
+                                    "0",
+                                    "2",
+                                    "2",
+                                    "2",
+                                    "0",
+                                    "1",
+                                    "1",
+                                    "1",
+                                    "+7",
+                                    "6"
+                                ],
+                                "didNotPlay": false,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:3142255",
+                                    "displayName": "Monique Billings",
+                                    "jersey": "25",
+                                    "guid": "3546d8bbb1575af3863f745a9ae0a759",
+                                    "links": [],
+                                    "id": "3142255",
+                                    "position": {
+                                        "displayName": "Forward",
+                                        "name": "Forward",
+                                        "abbreviation": "F"
+                                    },
+                                    "shortName": "M. Billings"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2984237",
+                                    "displayName": "Imani McGee-Stafford",
+                                    "jersey": "34",
+                                    "guid": "69adbd7987a2a6de8b723ec1b9e7c4a3",
+                                    "links": [],
+                                    "id": "2984237",
+                                    "position": {
+                                        "displayName": "Center",
+                                        "name": "Center",
+                                        "abbreviation": "C"
+                                    },
+                                    "shortName": "I. McGee-Stafford"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2528839",
+                                    "displayName": "Maggie Lucas",
+                                    "jersey": "33",
+                                    "guid": "f0e71d582e44300efd6abf27d40c081d",
+                                    "links": [],
+                                    "id": "2528839",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "M. Lucas"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            },
+                            {
+                                "reason": "COACH'S DECISION",
+                                "starter": false,
+                                "athlete": {
+                                    "uid": "s:40~l:59~a:2569047",
+                                    "displayName": "Blake Dietrick",
+                                    "jersey": "11",
+                                    "guid": "7d9e54ca443de7145f82b11de3b537f4",
+                                    "links": [],
+                                    "id": "2569047",
+                                    "position": {
+                                        "displayName": "Guard",
+                                        "name": "Guard",
+                                        "abbreviation": "G"
+                                    },
+                                    "shortName": "B. Dietrick"
+                                },
+                                "ejected": false,
+                                "stats": [],
+                                "didNotPlay": true,
+                                "active": false
+                            }
+                        ],
+                        "totals": [
+                            "",
+                            "28-64",
+                            "6-12",
+                            "20-27",
+                            "3",
+                            "33",
+                            "36",
+                            "18",
+                            "9",
+                            "2",
+                            "13",
+                            "17",
+                            "",
+                            "82"
+                        ],
+                        "descriptions": [
+                            "Minutes",
+                            "Field Goals Made/Attempted",
+                            "3-Point Field Goals Made/Attempted",
+                            "Free Throws Made/Attempted",
+                            "Offensive Rebounds",
+                            "Defensive Rebounds",
+                            "Rebounds",
+                            "Assists",
+                            "Steals",
+                            "Blocks",
+                            "Turnovers",
+                            "Personal Fouls",
+                            "Teams net points while player is on the court.",
+                            "Points"
+                        ],
+                        "labels": [
+                            "MIN",
+                            "FG",
+                            "3PT",
+                            "FT",
+                            "OREB",
+                            "DREB",
+                            "REB",
+                            "AST",
+                            "STL",
+                            "BLK",
+                            "TO",
+                            "PF",
+                            "+/-",
+                            "PTS"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "header": {
+        "uid": "s:40~l:59~e:401018818",
+        "timeValid": true,
+        "league": {
+            "uid": "s:40~l:59",
+            "name": "Women's National Basketball Association",
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/wnba/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:59",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/wnba/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:59&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/wnba/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:59&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/wnba/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/wnba/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:59&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/wnba/statistics",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/wnba/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/wnba/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/wnba/injuries",
+                    "text": "Injuries"
+                }
+            ],
+            "id": "59",
+            "abbreviation": "WNBA",
+            "slug": "wnba",
+            "isTournament": false
+        },
+        "competitions": [
+            {
+                "date": "2018-06-06T00:00Z",
+                "commentaryAvailable": false,
+                "conferenceCompetition": false,
+                "liveAvailable": false,
+                "broadcasts": [],
+                "playByPlaySource": "none",
+                "uid": "s:40~l:59~e:401018818~c:401018818",
+                "competitors": [
+                    {
+                        "uid": "s:40~l:59~t:20",
+                        "homeAway": "home",
+                        "score": "82",
+                        "winner": true,
+                        "record": [
+                            {
+                                "summary": "3-3",
+                                "displayValue": "3-3",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "2-2",
+                                "displayValue": "2-2",
+                                "type": "home"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "20",
+                        "team": {
+                            "uid": "s:40~l:59~t:20",
+                            "alternateColor": "f1f2f3",
+                            "color": "5190cd",
+                            "displayName": "Atlanta Dream",
+                            "name": "Dream",
+                            "location": "Atlanta",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/wnba/team/_/name/atl/atlanta-dream",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "20",
+                            "abbreviation": "ATL",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500-dark/atl.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "19"
+                            },
+                            {
+                                "displayValue": "27"
+                            },
+                            {
+                                "displayValue": "14"
+                            },
+                            {
+                                "displayValue": "22"
+                            }
+                        ],
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:40~l:59~t:18",
+                        "homeAway": "away",
+                        "score": "77",
+                        "winner": false,
+                        "record": [
+                            {
+                                "summary": "5-1",
+                                "displayValue": "5-1",
+                                "type": "total"
+                            },
+                            {
+                                "summary": "2-1",
+                                "displayValue": "2-1",
+                                "type": "road"
+                            }
+                        ],
+                        "possession": false,
+                        "id": "18",
+                        "team": {
+                            "uid": "s:40~l:59~t:18",
+                            "alternateColor": "002d62",
+                            "color": "de6b36",
+                            "displayName": "Connecticut Sun",
+                            "name": "Sun",
+                            "location": "Connecticut",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/wnba/team/_/name/conn/connecticut-sun",
+                                    "text": "Clubhouse"
+                                }
+                            ],
+                            "id": "18",
+                            "abbreviation": "CONN",
+                            "logos": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png",
+                                    "height": 500
+                                },
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "dark"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500-dark/conn.png",
+                                    "height": 500
+                                }
+                            ]
+                        },
+                        "linescores": [
+                            {
+                                "displayValue": "25"
+                            },
+                            {
+                                "displayValue": "15"
+                            },
+                            {
+                                "displayValue": "19"
+                            },
+                            {
+                                "displayValue": "18"
+                            }
+                        ],
+                        "order": 1
+                    }
+                ],
+                "onWatchESPN": false,
+                "series": [
+                    {
+                        "summary": "ATL leads series 1-0",
+                        "competitors": [
+                            {
+                                "wins": 1,
+                                "uid": "s:40~l:59~t:20",
+                                "ties": 0,
+                                "id": "20",
+                                "team": {
+                                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/seasons/2018/teams/20?lang=en&region=us"
+                                }
+                            },
+                            {
+                                "wins": 0,
+                                "uid": "s:40~l:59~t:18",
+                                "ties": 0,
+                                "id": "18",
+                                "team": {
+                                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/seasons/2018/teams/18?lang=en&region=us"
+                                }
+                            }
+                        ],
+                        "totalCompetitions": 3,
+                        "description": "Regular Season Series",
+                        "completed": false,
+                        "type": "season",
+                        "title": "Regular Season Series",
+                        "events": [
+                            {
+                                "id": "401018818",
+                                "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018818?lang=en&region=us"
+                            },
+                            {
+                                "id": "401018850",
+                                "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018850?lang=en&region=us"
+                            },
+                            {
+                                "id": "401018914",
+                                "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018914?lang=en&region=us"
+                            }
+                        ]
+                    }
+                ],
+                "boxscoreAvailable": true,
+                "id": "401018818",
+                "shotChartAvailable": false,
+                "timeoutsAvailable": true,
+                "neutralSite": false,
+                "recent": false,
+                "boxscoreSource": "full",
+                "possessionArrowAvailable": false,
+                "status": {
+                    "type": {
+                        "name": "STATUS_FINAL",
+                        "description": "Final",
+                        "id": "3",
+                        "state": "post",
+                        "completed": true,
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2018,
+            "type": 2
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/wnba/game?gameId=401018818",
+                "text": "Gamecast",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Box Score",
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/wnba/boxscore?gameId=401018818",
+                "text": "Box Score",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Team Stats",
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/wnba/matchup?gameId=401018818",
+                "text": "Team Stats",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Recap",
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/wnba/recap?gameId=401018818",
+                "text": "Recap",
+                "isPremium": false
+            }
+        ],
+        "id": "401018818"
+    },
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/wnba/standings"
+        },
+        "groups": [
+            {
+                "header": "2019-2020 Eastern Conference Standings",
+                "href": "https://www.espn.com/wnba/standings/_/group/1",
+                "standings": {
+                    "entries": [
+                        {
+                            "uid": "s:40~l:59~t:19",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "12",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 12
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "10",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".545",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.5454545617103577
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "-",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 0
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "W1",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": 1
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/chi/chicago-sky",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Chicago",
+                            "id": "19"
+                        },
+                        {
+                            "uid": "s:40~l:59~t:18",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "10",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "12",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 12
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".455",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.4545454680919647
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "2",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 2
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "L2",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": -2
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/conn/connecticut-sun",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Connecticut",
+                            "id": "18"
+                        },
+                        {
+                            "uid": "s:40~l:59~t:16",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "9",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 9
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "13",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 13
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".409",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.40909090638160706
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "3",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 3
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "W4",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": 4
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/wsh/washington-mystics",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Washington",
+                            "id": "16"
+                        },
+                        {
+                            "uid": "s:40~l:59~t:20",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "7",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 7
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "15",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 15
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".318",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.3181818127632141
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "5",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 5
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "L1",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": -1
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/atl/atlanta-dream",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Atlanta",
+                            "id": "20"
+                        },
+                        {
+                            "uid": "s:40~l:59~t:5",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "6",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "16",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 16
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".273",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.27272728085517883
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "6",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 6
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "L1",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": -1
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/ind/indiana-fever",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "Indiana",
+                            "id": "5"
+                        },
+                        {
+                            "uid": "s:40~l:59~t:9",
+                            "stats": [
+                                {
+                                    "shortDisplayName": "W",
+                                    "displayValue": "2",
+                                    "displayName": "Wins",
+                                    "name": "wins",
+                                    "description": "Wins",
+                                    "abbreviation": "W",
+                                    "type": "wins",
+                                    "value": 2
+                                },
+                                {
+                                    "shortDisplayName": "L",
+                                    "displayValue": "20",
+                                    "displayName": "Losses",
+                                    "name": "losses",
+                                    "description": "Losses",
+                                    "abbreviation": "L",
+                                    "type": "losses",
+                                    "value": 20
+                                },
+                                {
+                                    "shortDisplayName": "PCT",
+                                    "displayValue": ".091",
+                                    "displayName": "Win Percentage",
+                                    "name": "winPercent",
+                                    "description": "Winning Percentage",
+                                    "abbreviation": "PCT",
+                                    "type": "winpercent",
+                                    "value": 0.09090909361839294
+                                },
+                                {
+                                    "shortDisplayName": "GB",
+                                    "displayValue": "10",
+                                    "displayName": "Games Back",
+                                    "name": "gamesBehind",
+                                    "description": "Games Back",
+                                    "abbreviation": "GB",
+                                    "type": "gamesbehind",
+                                    "value": 10
+                                },
+                                {
+                                    "shortDisplayName": "STRK",
+                                    "displayValue": "L8",
+                                    "displayName": "Streak",
+                                    "name": "streak",
+                                    "description": "Current Streak",
+                                    "abbreviation": "STRK",
+                                    "type": "streak",
+                                    "value": -8
+                                }
+                            ],
+                            "link": "http://www.espn.com/wnba/team/_/name/ny/new-york-liberty",
+                            "logo": [
+                                {
+                                    "width": 500,
+                                    "alt": "",
+                                    "rel": [
+                                        "full",
+                                        "default"
+                                    ],
+                                    "href": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+                                    "height": 500
+                                }
+                            ],
+                            "team": "New York",
+                            "id": "9"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "pickcenter": {
+        "pickcenter": {}
+    },
+    "espnWP": [],
+    "gameInfo": {
+        "date": "2018-06-06T00:00Z",
+        "commentaryAvailable": false,
+        "conferenceCompetition": false,
+        "liveAvailable": false,
+        "broadcasts": [],
+        "playByPlaySource": "none",
+        "uid": "s:40~l:59~e:401018818~c:401018818",
+        "competitors": [
+            {
+                "uid": "s:40~l:59~t:20",
+                "homeAway": "home",
+                "score": "82",
+                "winner": true,
+                "record": [
+                    {
+                        "summary": "3-3",
+                        "displayValue": "3-3",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "2-2",
+                        "displayValue": "2-2",
+                        "type": "home"
+                    }
+                ],
+                "possession": false,
+                "id": "20",
+                "team": {
+                    "uid": "s:40~l:59~t:20",
+                    "alternateColor": "f1f2f3",
+                    "color": "5190cd",
+                    "displayName": "Atlanta Dream",
+                    "name": "Dream",
+                    "location": "Atlanta",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/wnba/team/_/name/atl/atlanta-dream",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "20",
+                    "abbreviation": "ATL",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/wnba/500-dark/atl.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "19"
+                    },
+                    {
+                        "displayValue": "27"
+                    },
+                    {
+                        "displayValue": "14"
+                    },
+                    {
+                        "displayValue": "22"
+                    }
+                ],
+                "order": 0
+            },
+            {
+                "uid": "s:40~l:59~t:18",
+                "homeAway": "away",
+                "score": "77",
+                "winner": false,
+                "record": [
+                    {
+                        "summary": "5-1",
+                        "displayValue": "5-1",
+                        "type": "total"
+                    },
+                    {
+                        "summary": "2-1",
+                        "displayValue": "2-1",
+                        "type": "road"
+                    }
+                ],
+                "possession": false,
+                "id": "18",
+                "team": {
+                    "uid": "s:40~l:59~t:18",
+                    "alternateColor": "002d62",
+                    "color": "de6b36",
+                    "displayName": "Connecticut Sun",
+                    "name": "Sun",
+                    "location": "Connecticut",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/wnba/team/_/name/conn/connecticut-sun",
+                            "text": "Clubhouse"
+                        }
+                    ],
+                    "id": "18",
+                    "abbreviation": "CONN",
+                    "logos": [
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "default"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png",
+                            "height": 500
+                        },
+                        {
+                            "width": 500,
+                            "alt": "",
+                            "rel": [
+                                "full",
+                                "dark"
+                            ],
+                            "href": "https://a.espncdn.com/i/teamlogos/wnba/500-dark/conn.png",
+                            "height": 500
+                        }
+                    ]
+                },
+                "linescores": [
+                    {
+                        "displayValue": "25"
+                    },
+                    {
+                        "displayValue": "15"
+                    },
+                    {
+                        "displayValue": "19"
+                    },
+                    {
+                        "displayValue": "18"
+                    }
+                ],
+                "order": 1
+            }
+        ],
+        "onWatchESPN": false,
+        "series": [
+            {
+                "summary": "ATL leads series 1-0",
+                "competitors": [
+                    {
+                        "wins": 1,
+                        "uid": "s:40~l:59~t:20",
+                        "ties": 0,
+                        "id": "20",
+                        "team": {
+                            "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/seasons/2018/teams/20?lang=en&region=us"
+                        }
+                    },
+                    {
+                        "wins": 0,
+                        "uid": "s:40~l:59~t:18",
+                        "ties": 0,
+                        "id": "18",
+                        "team": {
+                            "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/seasons/2018/teams/18?lang=en&region=us"
+                        }
+                    }
+                ],
+                "totalCompetitions": 3,
+                "description": "Regular Season Series",
+                "completed": false,
+                "type": "season",
+                "title": "Regular Season Series",
+                "events": [
+                    {
+                        "id": "401018818",
+                        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018818?lang=en&region=us"
+                    },
+                    {
+                        "id": "401018850",
+                        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018850?lang=en&region=us"
+                    },
+                    {
+                        "id": "401018914",
+                        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/wnba/events/401018914?lang=en&region=us"
+                    }
+                ]
+            }
+        ],
+        "boxscoreAvailable": true,
+        "id": "401018818",
+        "shotChartAvailable": false,
+        "timeoutsAvailable": true,
+        "neutralSite": false,
+        "recent": false,
+        "boxscoreSource": "full",
+        "possessionArrowAvailable": false,
+        "status": {
+            "type": {
+                "name": "STATUS_FINAL",
+                "description": "Final",
+                "id": "3",
+                "state": "post",
+                "completed": true,
+                "detail": "Final",
+                "shortDetail": "Final"
+            }
+        }
+    },
+    "season": 2018
+}
