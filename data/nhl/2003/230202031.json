@@ -1,0 +1,732 @@
+{
+    "gameId": "230202031",
+    "plays": [],
+    "winprobability": [],
+    "boxscore": {
+        "teams": [
+            {
+                "team": {
+                    "id": "32",
+                    "uid": "s:70~l:90~t:32",
+                    "slug": "western-conf-all-stars",
+                    "location": "Western Conf",
+                    "name": "All Stars",
+                    "abbreviation": "WCS",
+                    "displayName": "Western Conf All Stars",
+                    "shortDisplayName": "All Stars",
+                    "color": "003E7E"
+                },
+                "statistics": []
+            },
+            {
+                "team": {
+                    "id": "31",
+                    "uid": "s:70~l:90~t:31",
+                    "slug": "eastern-conf-all-stars",
+                    "location": "Eastern Conf",
+                    "name": "All Stars",
+                    "abbreviation": "ECS",
+                    "displayName": "Eastern Conf All Stars",
+                    "shortDisplayName": "All Stars",
+                    "color": "C41230"
+                },
+                "statistics": []
+            }
+        ],
+        "players": [
+            {
+                "team": {
+                    "id": "32",
+                    "uid": "s:70~l:90~t:32",
+                    "slug": "western-conf-all-stars",
+                    "location": "Western Conf",
+                    "name": "All Stars",
+                    "abbreviation": "WCS",
+                    "displayName": "Western Conf All Stars",
+                    "shortDisplayName": "All Stars",
+                    "color": "003E7E"
+                },
+                "statistics": [
+                    {
+                        "name": "forwards",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    },
+                    {
+                        "name": "defenses",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    },
+                    {
+                        "name": "goalies",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": "31",
+                    "uid": "s:70~l:90~t:31",
+                    "slug": "eastern-conf-all-stars",
+                    "location": "Eastern Conf",
+                    "name": "All Stars",
+                    "abbreviation": "ECS",
+                    "displayName": "Eastern Conf All Stars",
+                    "shortDisplayName": "All Stars",
+                    "color": "C41230"
+                },
+                "statistics": [
+                    {
+                        "name": "forwards",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    },
+                    {
+                        "name": "defenses",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    },
+                    {
+                        "name": "goalies",
+                        "keys": [],
+                        "labels": [],
+                        "descriptions": [],
+                        "athletes": []
+                    }
+                ]
+            }
+        ]
+    },
+    "header": {
+        "id": "230202031",
+        "uid": "s:70~l:90~e:230202031",
+        "season": {
+            "year": 2003,
+            "type": 2
+        },
+        "timeValid": true,
+        "competitions": [
+            {
+                "id": "230202031",
+                "uid": "s:70~l:90~e:230202031~c:230202031",
+                "date": "2003-02-02T19:30Z",
+                "neutralSite": false,
+                "boxscoreAvailable": true,
+                "commentaryAvailable": false,
+                "liveAvailable": false,
+                "onWatchESPN": false,
+                "recent": false,
+                "boxscoreSource": "basic",
+                "playByPlaySource": "none",
+                "competitors": [
+                    {
+                        "id": "31",
+                        "uid": "s:70~l:90~t:31",
+                        "order": 0,
+                        "homeAway": "home",
+                        "winner": false,
+                        "team": {
+                            "id": "31",
+                            "uid": "s:70~l:90~t:31",
+                            "location": "Eastern Conf",
+                            "name": "All Stars",
+                            "abbreviation": "ECS",
+                            "displayName": "Eastern Conf All Stars",
+                            "color": "C41230",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nhl/team/_/name/ecs/eastern-conf-all-stars",
+                                    "text": "Clubhouse"
+                                }
+                            ]
+                        },
+                        "score": "5",
+                        "linescores": [
+                            {
+                                "displayValue": "2"
+                            },
+                            {
+                                "displayValue": "2"
+                            },
+                            {
+                                "displayValue": "1"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "0"
+                            }
+                        ],
+                        "record": [],
+                        "possession": false
+                    },
+                    {
+                        "id": "32",
+                        "uid": "s:70~l:90~t:32",
+                        "order": 1,
+                        "homeAway": "away",
+                        "winner": true,
+                        "team": {
+                            "id": "32",
+                            "uid": "s:70~l:90~t:32",
+                            "location": "Western Conf",
+                            "name": "All Stars",
+                            "abbreviation": "WCS",
+                            "displayName": "Western Conf All Stars",
+                            "color": "003E7E",
+                            "links": [
+                                {
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nhl/team/_/name/wcs/western-conf-all-stars",
+                                    "text": "Clubhouse"
+                                }
+                            ]
+                        },
+                        "score": "6",
+                        "linescores": [
+                            {
+                                "displayValue": "3"
+                            },
+                            {
+                                "displayValue": "1"
+                            },
+                            {
+                                "displayValue": "1"
+                            },
+                            {
+                                "displayValue": "0"
+                            },
+                            {
+                                "displayValue": "1"
+                            }
+                        ],
+                        "record": [],
+                        "possession": false
+                    }
+                ],
+                "status": {
+                    "type": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final/SO",
+                        "shortDetail": "Final/SO",
+                        "altDetail": "SO"
+                    }
+                },
+                "broadcasts": [
+                    {
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "market": {
+                            "id": "1",
+                            "type": "National"
+                        },
+                        "media": {
+                            "shortName": "CBC"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    },
+                    {
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "market": {
+                            "id": "2",
+                            "type": "Home"
+                        },
+                        "media": {
+                            "shortName": "CBC"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    },
+                    {
+                        "type": {
+                            "id": "1",
+                            "shortName": "TV"
+                        },
+                        "market": {
+                            "id": "2",
+                            "type": "Home"
+                        },
+                        "media": {
+                            "shortName": "ABC"
+                        },
+                        "lang": "en",
+                        "region": "us"
+                    }
+                ],
+                "series": [
+                    {
+                        "type": "season",
+                        "title": "Regular Season Series",
+                        "description": "Regular Season Series",
+                        "summary": "",
+                        "completed": true,
+                        "totalCompetitions": 1,
+                        "competitors": [
+                            {
+                                "id": "31",
+                                "uid": "s:70~l:90~t:31",
+                                "wins": 0,
+                                "ties": 0,
+                                "team": {
+                                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2003/teams/31?lang=en&region=us"
+                                }
+                            },
+                            {
+                                "id": "32",
+                                "uid": "s:70~l:90~t:32",
+                                "wins": 1,
+                                "ties": 0,
+                                "team": {
+                                    "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2003/teams/32?lang=en&region=us"
+                                }
+                            }
+                        ],
+                        "events": [
+                            {
+                                "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/events/230202031?lang=en&region=us",
+                                "id": "230202031"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nhl/game/_/gameId/230202031",
+                "text": "Gamecast",
+                "shortText": "Gamecast",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "rel": [
+                    "recap",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nhl/recap?gameId=230202031",
+                "text": "Recap",
+                "shortText": "Recap",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "rel": [
+                    "boxscore",
+                    "desktop",
+                    "event"
+                ],
+                "href": "http://www.espn.com/nhl/boxscore?gameId=230202031",
+                "text": "Box Score",
+                "shortText": "Box Score",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "rel": [
+                    "teamstats",
+                    "desktop",
+                    "event"
+                ],
+                "href": "https://www.espn.com/nhl/matchup?gameId=230202031",
+                "text": "Team Stats",
+                "shortText": "Team Stats",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ],
+        "league": {
+            "id": "90",
+            "uid": "s:70~l:90",
+            "name": "National Hockey League",
+            "abbreviation": "NHL",
+            "slug": "nhl",
+            "isTournament": false,
+            "links": [
+                {
+                    "rel": [
+                        "index",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nhl/",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "index",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:90",
+                    "text": "Index"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nhl/schedule",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:90&section=scores",
+                    "text": "Schedule"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nhl/standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:90&section=standings",
+                    "text": "Standings"
+                },
+                {
+                    "rel": [
+                        "rankings",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nhl/rankings",
+                    "text": "Rankings"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nhl/scoreboard",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "scores",
+                        "sportscenter",
+                        "app",
+                        "league"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:90&section=scores",
+                    "text": "Scores"
+                },
+                {
+                    "rel": [
+                        "stats",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nhl/statistics/team/_/stat/scoring/",
+                    "text": "Stats"
+                },
+                {
+                    "rel": [
+                        "teams",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nhl/teams",
+                    "text": "Teams"
+                },
+                {
+                    "rel": [
+                        "athletes",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "http://www.espn.com/nhl/players",
+                    "text": "Players"
+                },
+                {
+                    "rel": [
+                        "injuries",
+                        "desktop",
+                        "league"
+                    ],
+                    "href": "https://www.espn.com/nhl/injuries",
+                    "text": "Injuries"
+                }
+            ]
+        }
+    },
+    "homeTeamSpread": 2.5,
+    "broadcasts": [],
+    "videos": [],
+    "standings": {
+        "fullViewLink": {
+            "text": "Full Standings",
+            "href": "http://www.espn.com/nhl/standings"
+        },
+        "groups": [
+            {
+                "standings": {
+                    "entries": []
+                },
+                "header": "2021 All-Star Standings",
+                "href": "https://www.espn.com/nhl/standings/_/group/10"
+            }
+        ]
+    },
+    "pickcenter": [],
+    "espnWP": [],
+    "gameInfo": {
+        "id": "230202031",
+        "uid": "s:70~l:90~e:230202031~c:230202031",
+        "date": "2003-02-02T19:30Z",
+        "neutralSite": false,
+        "boxscoreAvailable": true,
+        "commentaryAvailable": false,
+        "liveAvailable": false,
+        "onWatchESPN": false,
+        "recent": false,
+        "boxscoreSource": "basic",
+        "playByPlaySource": "none",
+        "competitors": [
+            {
+                "id": "31",
+                "uid": "s:70~l:90~t:31",
+                "order": 0,
+                "homeAway": "home",
+                "winner": false,
+                "team": {
+                    "id": "31",
+                    "uid": "s:70~l:90~t:31",
+                    "location": "Eastern Conf",
+                    "name": "All Stars",
+                    "abbreviation": "ECS",
+                    "displayName": "Eastern Conf All Stars",
+                    "color": "C41230",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/nhl/team/_/name/ecs/eastern-conf-all-stars",
+                            "text": "Clubhouse"
+                        }
+                    ]
+                },
+                "score": "5",
+                "linescores": [
+                    {
+                        "displayValue": "2"
+                    },
+                    {
+                        "displayValue": "2"
+                    },
+                    {
+                        "displayValue": "1"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "0"
+                    }
+                ],
+                "record": [],
+                "possession": false
+            },
+            {
+                "id": "32",
+                "uid": "s:70~l:90~t:32",
+                "order": 1,
+                "homeAway": "away",
+                "winner": true,
+                "team": {
+                    "id": "32",
+                    "uid": "s:70~l:90~t:32",
+                    "location": "Western Conf",
+                    "name": "All Stars",
+                    "abbreviation": "WCS",
+                    "displayName": "Western Conf All Stars",
+                    "color": "003E7E",
+                    "links": [
+                        {
+                            "rel": [
+                                "clubhouse",
+                                "desktop",
+                                "team"
+                            ],
+                            "href": "http://www.espn.com/nhl/team/_/name/wcs/western-conf-all-stars",
+                            "text": "Clubhouse"
+                        }
+                    ]
+                },
+                "score": "6",
+                "linescores": [
+                    {
+                        "displayValue": "3"
+                    },
+                    {
+                        "displayValue": "1"
+                    },
+                    {
+                        "displayValue": "1"
+                    },
+                    {
+                        "displayValue": "0"
+                    },
+                    {
+                        "displayValue": "1"
+                    }
+                ],
+                "record": [],
+                "possession": false
+            }
+        ],
+        "status": {
+            "type": {
+                "id": "3",
+                "name": "STATUS_FINAL",
+                "state": "post",
+                "completed": true,
+                "description": "Final",
+                "detail": "Final/SO",
+                "shortDetail": "Final/SO",
+                "altDetail": "SO"
+            }
+        },
+        "broadcasts": [
+            {
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "market": {
+                    "id": "1",
+                    "type": "National"
+                },
+                "media": {
+                    "shortName": "CBC"
+                },
+                "lang": "en",
+                "region": "us"
+            },
+            {
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "market": {
+                    "id": "2",
+                    "type": "Home"
+                },
+                "media": {
+                    "shortName": "CBC"
+                },
+                "lang": "en",
+                "region": "us"
+            },
+            {
+                "type": {
+                    "id": "1",
+                    "shortName": "TV"
+                },
+                "market": {
+                    "id": "2",
+                    "type": "Home"
+                },
+                "media": {
+                    "shortName": "ABC"
+                },
+                "lang": "en",
+                "region": "us"
+            }
+        ],
+        "series": [
+            {
+                "type": "season",
+                "title": "Regular Season Series",
+                "description": "Regular Season Series",
+                "summary": "",
+                "completed": true,
+                "totalCompetitions": 1,
+                "competitors": [
+                    {
+                        "id": "31",
+                        "uid": "s:70~l:90~t:31",
+                        "wins": 0,
+                        "ties": 0,
+                        "team": {
+                            "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2003/teams/31?lang=en&region=us"
+                        }
+                    },
+                    {
+                        "id": "32",
+                        "uid": "s:70~l:90~t:32",
+                        "wins": 1,
+                        "ties": 0,
+                        "team": {
+                            "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2003/teams/32?lang=en&region=us"
+                        }
+                    }
+                ],
+                "events": [
+                    {
+                        "$ref": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/events/230202031?lang=en&region=us",
+                        "id": "230202031"
+                    }
+                ]
+            }
+        ]
+    },
+    "season": 2003
+}
